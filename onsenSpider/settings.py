@@ -14,7 +14,8 @@ BOT_NAME = 'onsenSpider'
 SPIDER_MODULES = ['onsenSpider.spiders']
 NEWSPIDER_MODULE = 'onsenSpider.spiders'
 
-
+MONGO_URL='127.0.0.1:27017'
+MONGO_DATABASE='onsenSpider'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'onsenSpider (+http://www.yourdomain.com)'
 
@@ -22,7 +23,7 @@ NEWSPIDER_MODULE = 'onsenSpider.spiders'
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 32
+CONCURRENT_REQUESTS = 16
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
@@ -39,10 +40,10 @@ CONCURRENT_REQUESTS = 32
 #TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-#DEFAULT_REQUEST_HEADERS = {
-#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-#   'Accept-Language': 'en',
-#}
+DEFAULT_REQUEST_HEADERS = {
+  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'Accept-Language': 'en',
+}
 
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
@@ -64,10 +65,12 @@ CONCURRENT_REQUESTS = 32
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'onsenSpider.pipelines.OnsenspiderPipeline': 300,
-#}
-
+ITEM_PIPELINES = {
+   # 'onsenSpider.pipelines.OnsenspiderPipeline': 300,
+   'onsenSpider.pipelines.InnsertMongodbPipeline': 100,
+    'onsenSpider.pipelines.FileDownloadPipeline': 1
+}
+FILES_STORE = '.'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
