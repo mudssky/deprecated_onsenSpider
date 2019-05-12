@@ -1,7 +1,10 @@
 
 # 忽略vscode的配置文件
 .vscode/
+# 忽略节目文件夹
 radio/
+programs.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

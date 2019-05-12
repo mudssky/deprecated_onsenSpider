@@ -100,8 +100,11 @@ class DownallradioSpider(scrapy.Spider):
                 audio_dir = '{title}[{actor_tag}]'.format(title=item['title'], actor_tag=item['actor_tag'])
                 audio_dir = os.path.join(radio_root, self.convert_windowsFileName(audio_dir))
                 audio_ext = can_download[0][-3:]
-                audio_name = '{program_number} {title}[{date}][{guest_str}].{audio_ext}'.format(
-                    program_number=item['program_number'], title=item['title'], date=date, guest_str=guest_str,
+                # audio_name = '{program_number} {title}[{date}][{guest_str}].{audio_ext}'.format(
+                #     program_number=item['program_number'], title=item['title'], date=date, guest_str=guest_str,
+                #     audio_ext=audio_ext)
+                audio_name = '{program_number}[{date}][{guest_str}].{audio_ext}'.format(
+                    program_number=item['program_number'], date=date, guest_str=guest_str,
                     audio_ext=audio_ext)
                 audio_name = self.convert_windowsFileName(audio_name)
                 # if not os.path.exists(audio_dir):
@@ -134,7 +137,7 @@ class DownallradioSpider(scrapy.Spider):
         # 统计发生更新的节目
         self.logger.info('update {num} program'.format(num=len(update_list)))
         for tmp in update_list:
-            self.logger.debug(str(item['title']))
+            self.logger.debug(str(item['program_number'])+'  '+str(item['title']))
         if len(update_list)!=0:
             self.save_programsXML(response.text)
         # with open('program.xml','w',encoding='utf8')as f:
