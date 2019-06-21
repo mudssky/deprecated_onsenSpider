@@ -17,6 +17,11 @@ class FileDownloadPipeline(FilesPipeline):
         # print('*'*20+'show info'*5,str(info))
         # print('item',str(item))
         if  isinstance(item,FileItem):
+            with open('down.ps1','a',encoding='utf8')as f:
+                # httpie 不识别windows里面反斜杠的路径，所以末尾进行了转换
+                downloadStr="http --download   '{file_url}' --output '{path}'\n".format(file_url=item['file_urls'][0],path=item['file_path'].replace('\\','/') )
+                f.write(downloadStr)
+            f.close()
             for file_url in item['file_urls']:
                 yield scrapy.Request(url=file_url,meta={'item':item})
         # yield scrapy.Request(url=item['file_url'],meta={'item':item})

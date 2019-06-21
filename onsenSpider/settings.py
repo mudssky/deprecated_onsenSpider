@@ -68,7 +68,7 @@ DEFAULT_REQUEST_HEADERS = {
 ITEM_PIPELINES = {
    # 'onsenSpider.pipelines.OnsenspiderPipeline': 300,
    'onsenSpider.pipelines.InnsertMongodbPipeline': 100,
-    'onsenSpider.pipelines.FileDownloadPipeline': 1
+    'onsenSpider.pipelines.FileDownloadPipeline': 200
 }
 FILES_STORE = '.'
 # Enable and configure the AutoThrottle extension (disabled by default)

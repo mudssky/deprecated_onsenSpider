@@ -14,6 +14,8 @@ class DownallradioSpider(scrapy.Spider):
     请求xml接口，获得所有节目的相关信息
     '''
     def start_requests(self):
+        if os.path.exists('down.ps1'):
+            os.remove('down.ps1')
         yield scrapy.Request(url='http://www.onsen.ag/app/programs.xml',callback=self.parse_programXML)
 
 
@@ -41,9 +43,9 @@ class DownallradioSpider(scrapy.Spider):
         old_xml = self.get_programsXML()
         # 如果不存在xml文件，那么我们直接下载一次所有节目,把所有节目的需要下载属性设置为True
         # 更新列表，把要更新的项目添加进去，用于计数
-        print('*'*100)
         # print(old_xml)
         update_list=[]
+        powershellStr=''
         for program in response.xpath('//program'):
             item=ProgramItem()
             item['id']=program.xpath('@id').get()
@@ -82,7 +84,6 @@ class DownallradioSpider(scrapy.Spider):
                 can_download.append(item['movie_url'])
             if len(can_download)==0:
                 item['need_download']=False
-
             if item['need_download']:
                 if item['actor_tag'] is not None:
                     actor_list = item['actor_tag'].split(',')
@@ -92,7 +93,10 @@ class DownallradioSpider(scrapy.Spider):
                 for person in item['personalities']:
                     if person not in actor_list:
                         guest.append(person)
-                guest_str = ','.join(guest)
+                if len(guest)==0:
+                    guest_str=''
+                else:
+                    guest_str ='['+ ','.join(guest)+']'
                 if item['up_date'] is None:
                     date='none'
                 else:
@@ -103,7 +107,7 @@ class DownallradioSpider(scrapy.Spider):
                 # audio_name = '{program_number} {title}[{date}][{guest_str}].{audio_ext}'.format(
                 #     program_number=item['program_number'], title=item['title'], date=date, guest_str=guest_str,
                 #     audio_ext=audio_ext)
-                audio_name = '{program_number}[{date}][{guest_str}].{audio_ext}'.format(
+                audio_name = '{program_number}[{date}]{guest_str}.{audio_ext}'.format(
                     program_number=item['program_number'], date=date, guest_str=guest_str,
                     audio_ext=audio_ext)
                 audio_name = self.convert_windowsFileName(audio_name)
@@ -117,7 +121,10 @@ class DownallradioSpider(scrapy.Spider):
                 # yield scrapy.Request(url=can_download[0],callback=self.save_audio,meta={'item':item})
                 item1['file_urls']=[can_download[0]]
                 item1['file_path']=item['audio_path']
+
+                powershellStr+= "http --download   '{file_url}' --output '{path}'\n".format(file_url=item1['file_urls'][0],path=item1['file_path'].replace('\\','/') )
                 yield item1
+
                 imgurlSplited=item['banner_image'].split('/')
                 if len(imgurlSplited)!=0:
                     img_name=imgurlSplited[-1]
@@ -126,20 +133,28 @@ class DownallradioSpider(scrapy.Spider):
                     item['img_name']=img_name
                     # imgpath = os.path.join(item['audio_dir'], img_name)
                     imgpath = os.path.join(item['audio_dir'], img_name)
-                    item2=FileItem()
-                    item2['file_urls'] = [img_url]
-                    item2['file_path'] = imgpath
-                    yield item2
+                    # 如果同名图片文件已经存在就不不必下载了
+                    if not os.path.exists(imgpath):
+                        item2=FileItem()
+                        item2['file_urls'] = [img_url]
+                        item2['file_path'] = imgpath
+                        yield item2
                     # yield scrapy.Request(url=img_url,callback=self.save_img,meta={'item':item})
                 # 需要下载的部分的信息才需要保存，所以这个yield在判断需要下载的if里面
                 yield item
+        # powershell运行utf8编码的文本会乱码
+        with open('down.ps1','w',encoding='utf16') as f:
+            f.write(powershellStr)
+        f.close()
 
         # 统计发生更新的节目
+        print('*' * 100)
         self.logger.info('update {num} program'.format(num=len(update_list)))
         for tmp in update_list:
-            self.logger.debug(str(item['program_number'])+'  '+str(item['title']))
+            self.logger.debug(str(tmp['program_number'])+'  '+str(tmp['title']))
         if len(update_list)!=0:
             self.save_programsXML(response.text)
+        print('*' * 100)
         # with open('program.xml','w',encoding='utf8')as f:
         #     f.write(response.text)
         # f.close()
