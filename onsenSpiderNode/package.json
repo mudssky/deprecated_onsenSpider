@@ -1,0 +1,16 @@
+{
+  "name": "onsenspidernode",
+  "version": "1.0.0",
+  "description": "nodejs+puppeteer onsen spider",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "mudssky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.3.1"
+  }
+}

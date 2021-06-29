@@ -7,11 +7,11 @@
     <wday>1</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kamo200113q3GV.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kamo200713G0Lh.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/kamo/image/35_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kamo200113q3GV.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kamo200113q3GV.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kamo200713G0Lh.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kamo200713G0Lh.mp3</android_url>
     <recommend_program_id>501st</recommend_program_id>
     <recommends/>
     <program_tag>かもさん,かも学,かも學,かもさん学園</program_tag>
@@ -25,8 +25,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>427</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
+    <program_number>440</program_number>
+    <up_date>2020-07-13 00:00:00</up_date>
     <personalities>
       <personality>
         <name>名塚佳織</name>
@@ -40,18 +40,13 @@
     <wday>1</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tsukinone200113q3GV.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tsukinone200713G0Lh.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/tsukinone/image/29_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tsukinone200113q3GV.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tsukinone200113q3GV.mp3</android_url>
-    <recommend_program_id>sugoi</recommend_program_id>
-    <recommends>
-      <recommend>
-        <name>ラジオCD「大原さやか朗読ラジオ　月の音色～radio for your pleasure tomorrow～」Vol.3</name>
-        <image>/common/image/cms/recommend/199_rcmd01.jpg</image>
-      </recommend>
-    </recommends>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tsukinone200713G0Lh.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tsukinone200713G0Lh.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
     <program_tag>大原さやか</program_tag>
     <actor_tag>大原さやか</actor_tag>
     <category>
@@ -63,8 +58,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>146</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
+    <program_number>159</program_number>
+    <up_date>2020-07-13 00:00:00</up_date>
     <personalities>
       <personality>
         <name>大原さやか</name>
@@ -77,12 +72,12 @@
     <is_app>1</is_app>
     <wday>1</wday>
     <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/cr200113PLu8.mp4</movie_url>
+    <is_new>1</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/cr200720Fk5L.mp4</movie_url>
     <sound_video>2</sound_video>
-    <banner_image>/program/cr/image/463_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/cr200113PLu8.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/cr200113PLu8.mp4</android_url>
+    <banner_image>/program/cr/image/463_pgi05_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/cr200720Fk5L.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/cr200720Fk5L.mp4</android_url>
     <recommend_program_id>nwing,aya-uchida</recommend_program_id>
     <recommends/>
     <program_tag>チェインクロニクル,ちぇんくろ,</program_tag>
@@ -96,8 +91,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>137</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
+    <program_number>164</program_number>
+    <up_date>2020-07-20 00:00:00</up_date>
     <personalities>
       <personality>
         <name>緑川光</name>
@@ -120,11 +115,11 @@
     <wday>1</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shigohaji200113q3GV.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shigohaji200713G0Lh.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/shigohaji/image/483_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shigohaji200113q3GV.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shigohaji200113q3GV.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shigohaji200713G0Lh.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shigohaji200713G0Lh.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>しごはじ</program_tag>
@@ -138,8 +133,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>64</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
+    <program_number>77</program_number>
+    <up_date>2020-07-13 00:00:00</up_date>
     <personalities>
       <personality>
         <name>高橋李依</name>
@@ -174,26 +169,17 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>01</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
+    <program_number>05</program_number>
+    <up_date>2020-07-06 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>牧野天音</name>
+        <name>小澤亜李</name>
       </personality>
       <personality>
-        <name>鬼頭明里</name>
+        <name>嶺内ともみ</name>
       </personality>
       <personality>
-        <name>田澤茉純</name>
-      </personality>
-      <personality>
-        <name>空見ゆき</name>
-      </personality>
-      <personality>
-        <name>立花芽恵夢</name>
-      </personality>
-      <personality>
-        <name>岩橋由佳</name>
+        <name>長妻樹里</name>
       </personality>
     </personalities>
   </program>
@@ -203,12 +189,12 @@
     <is_app>1</is_app>
     <wday>1</wday>
     <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/matuokasan200106ZE7c.mp3</movie_url>
+    <is_new>1</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/matuokasan200720Jz7S.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/matuokasan/image/569_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/matuokasan200106ZE7c.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/matuokasan200106ZE7c.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/matuokasan200720Jz7S.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/matuokasan200720Jz7S.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>松ハン</program_tag>
@@ -222,8 +208,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>42</program_number>
-    <up_date>2020-01-06 00:00:00</up_date>
+    <program_number>53</program_number>
+    <up_date>2020-07-20 00:00:00</up_date>
     <personalities>
       <personality>
         <name>松岡禎丞</name>
@@ -234,20 +220,26 @@
       <personality>
         <name>岡咲美保</name>
       </personality>
+      <personality>
+        <name>佐藤元</name>
+      </personality>
+      <personality>
+        <name>村井美里</name>
+      </personality>
     </personalities>
   </program>
   <program id="bakumatsu">
-    <title>恋愛幕末カレシ～時の彼方で花咲く恋～WEBラジオ「イキザマラジオ」</title>
+    <title>恋愛幕末カレシ～時の彼方で花咲く恋～WEBラジオ「イキザマラジオ恋」</title>
     <copyright><![CDATA[© FURYU／BAKUMATSU製作委員会]]></copyright>
     <is_app>1</is_app>
     <wday>1</wday>
     <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/bakumatsu191223QCw2.mp3</movie_url>
+    <is_new>1</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/bakumatsu200720Fk5L.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/bakumatsu/image/617_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/bakumatsu191223QCw2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/bakumatsu191223QCw2.mp3</android_url>
+    <banner_image>/program/bakumatsu/image/617_pgi05_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/bakumatsu200720Fk5L.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/bakumatsu200720Fk5L.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>BAKUMATSU</program_tag>
@@ -261,55 +253,11 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>30</program_number>
-    <up_date>2019-12-23 00:00:00</up_date>
+    <program_number>37</program_number>
+    <up_date>2020-07-20 00:00:00</up_date>
     <personalities>
       <personality>
         <name>染谷俊之</name>
-      </personality>
-      <personality>
-        <name>代永翼</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="shingeki">
-    <title>進撃の巨人ラジオ ～梶と下野の進め！電波兵団～</title>
-    <copyright><![CDATA[©諫山創・講談社／「進撃の巨人」製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shingeki190708dZLh.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/shingeki/image/36_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shingeki190708dZLh.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shingeki190708dZLh.mp3</android_url>
-    <recommend_program_id>hanayume</recommend_program_id>
-    <recommends>
-      <recommend>
-        <name>ラジオCD 「進撃の巨人ラジオ ～梶と下野の進め！電波兵団～ 」 Vol.1 </name>
-        <image>/common/image/cms/recommend/42_rcmd01.jpg</image>
-      </recommend>
-    </recommends>
-    <program_tag></program_tag>
-    <actor_tag>下野紘,梶裕貴</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>91</program_number>
-    <up_date>2019-07-08 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>梶裕貴</name>
-      </personality>
-      <personality>
-        <name>下野紘</name>
       </personality>
     </personalities>
   </program>
@@ -319,12 +267,12 @@
     <is_app>1</is_app>
     <wday>1</wday>
     <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/azusta191230qRN6.mp4</movie_url>
+    <is_new>1</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/azusta200720Jz7S.mp4</movie_url>
     <sound_video>2</sound_video>
-    <banner_image>/program/azusta/image/665_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/azusta191230qRN6.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/azusta191230qRN6.mp4</android_url>
+    <banner_image>/program/azusta/image/665_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/azusta200720Jz7S.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/azusta200720Jz7S.mp4</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>アズステ,アズールレーン</program_tag>
@@ -338,8 +286,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>33</program_number>
-    <up_date>2019-12-30 00:00:00</up_date>
+    <program_number>57</program_number>
+    <up_date>2020-07-20 00:00:00</up_date>
     <personalities>
       <personality>
         <name>加隈亜衣</name>
@@ -349,39 +297,189 @@
       </personality>
     </personalities>
   </program>
-  <program id="sega_girls">
-    <title>セガ ガールズ通信　広報宣伝ラジオ</title>
-    <copyright><![CDATA[©SEGA]]></copyright>
+  <program id="rezero">
+    <title>Re：ゼロから始める異世界ラジオ生活</title>
+    <copyright><![CDATA[©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>1</wday>
+    <is_list>1</is_list>
+    <is_new>1</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/rezero200720Fk5L.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/rezero/image/333_pgi04_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/rezero200720Fk5L.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/rezero200720Fk5L.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>Re:ゼロから始める異世界生活,リゼロ</program_tag>
+    <actor_tag>高橋李依</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>1</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>59</program_number>
+    <up_date>2020-07-20 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>高橋李依</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="mnh">
+    <title>HELIOS Rising Heroes ラジオ マンデーナイトヒーロー</title>
+    <copyright><![CDATA[©2019 Happy Elements K.K]]></copyright>
     <is_app>1</is_app>
     <wday>1</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/sega_girls191202l87t.mp4</movie_url>
-    <sound_video>2</sound_video>
-    <banner_image>/program/sega_girls/image/428_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/sega_girls191202l87t.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/sega_girls191202l87t.mp4</android_url>
-    <recommend_program_id>yp_radio</recommend_program_id>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mnh200622Pk0E.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/mnh/image/702_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mnh200622Pk0E.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mnh200622Pk0E.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag>セガ,ガールズ</program_tag>
-    <actor_tag>白井悠介,代永翼</actor_tag>
+    <program_tag></program_tag>
+    <actor_tag>中島ヨシキ,ランズベリー・アーサー</actor_tag>
     <category>
       <new>0</new>
-      <radio>0</radio>
-      <movie>1</movie>
+      <radio>1</radio>
+      <movie>0</movie>
       <niconama>0</niconama>
       <live>0</live>
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>21</program_number>
-    <up_date>2019-12-02 00:00:00</up_date>
+    <program_number>09</program_number>
+    <up_date>2020-06-22 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>代永翼</name>
+        <name>ランズベリー・アーサー</name>
       </personality>
       <personality>
-        <name>白井悠介</name>
+        <name>中島ヨシキ</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="gugl">
+    <title>6-シックス-のゲラゲラジオ</title>
+    <copyright><![CDATA[© MBS／ゲラゲラ製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>1</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gugl200713Rb1A.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/gugl/image/717_pgi03_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gugl200713Rb1A.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gugl200713Rb1A.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag></actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>15</program_number>
+    <up_date>2020-07-13 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>阿座上洋平</name>
+      </personality>
+      <personality>
+        <name>熊谷健太郎</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="watahana">
+    <title>PsyChe（プシュケ）の私花。らじお!</title>
+    <copyright><![CDATA[ⓒ株式会社JVCケンウッド・ビクターエンタテインメント]]></copyright>
+    <is_app>1</is_app>
+    <wday>1</wday>
+    <is_list>1</is_list>
+    <is_new>1</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/watahana200720Jz7S.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/watahana/image/761_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/watahana200720Jz7S.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/watahana200720Jz7S.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>私の愛した花の名は,私花らじお,私花,PsȳChē</program_tag>
+    <actor_tag>MoeMi,大森日雅,宍戸智恵,鳥部万里子,若林倫香</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>16</program_number>
+    <up_date>2020-07-20 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>MoeMi</name>
+      </personality>
+      <personality>
+        <name>大森日雅</name>
+      </personality>
+      <personality>
+        <name>若林倫香</name>
+      </personality>
+      <personality>
+        <name>宍戸智恵</name>
+      </personality>
+      <personality>
+        <name>鳥部万里子</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="dosukoi">
+    <title>Summer Pockets Radio～鳴瀬家の食卓 ～</title>
+    <copyright><![CDATA[ⓒVISUAL ARTS/Key]]></copyright>
+    <is_app>1</is_app>
+    <wday>1</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/dosukoi200525E8Hh.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/dosukoi/image/731_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/dosukoi200525E8Hh.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/dosukoi200525E8Hh.mp3</android_url>
+    <recommend_program_id>kokuradio</recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>小原好美,白石稔</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>04</program_number>
+    <up_date>2020-05-25 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>小原好美</name>
+      </personality>
+      <personality>
+        <name>白石稔</name>
       </personality>
     </personalities>
   </program>
@@ -392,11 +490,11 @@
     <wday>1</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tate191216LB8o.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tate200622Pk0E.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/tate/image/649_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tate191216LB8o.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tate191216LB8o.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tate200622Pk0E.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tate200622Pk0E.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -411,7 +509,7 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
     <program_number>SP</program_number>
-    <up_date>2019-12-16 00:00:00</up_date>
+    <up_date>2020-06-22 00:00:00</up_date>
     <personalities>
       <personality>
         <name>瀬戸麻沙美</name>
@@ -421,322 +519,58 @@
       </personality>
     </personalities>
   </program>
-  <program id="actors">
-    <title>ACTORS-ラジオ配信してみた！-</title>
-    <copyright><![CDATA[©EXIT TUNES/スライヴセントラル運営局]]></copyright>
+  <program id="mahouritsu">
+    <title>ムヒョとロージーの魔法律相談事務所　～ムヒョロジラジオ～</title>
+    <copyright><![CDATA[© 西義之／集英社・ムヒョロジ製作委員会2]]></copyright>
     <is_app>1</is_app>
     <wday>1</wday>
     <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/actors200113PLu8.mp3</movie_url>
+    <is_new>1</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mahouritsu200720Jz7S.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/actors/image/695_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/actors200113PLu8.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/actors200113PLu8.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>浦田わたる,梶原岳人,保住有哉</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>14</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>梶原岳人</name>
-      </personality>
-      <personality>
-        <name>浦田わたる</name>
-      </personality>
-      <personality>
-        <name>保住有哉</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="mnh">
-    <title>HELIOS Rising Heroes ラジオ マンデーナイトヒーロー</title>
-    <copyright><![CDATA[©2019 Happy Elements K.K]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mnh191223QCw2.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/mnh/image/702_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mnh191223QCw2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mnh191223QCw2.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>中島ヨシキ,ランズベリー・アーサー</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>03</program_number>
-    <up_date>2019-12-23 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>ランズベリー・アーサー</name>
-      </personality>
-      <personality>
-        <name>中島ヨシキ</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="bst">
-    <title>BEASTARS　レゴシとジャックのドッグレディオ！</title>
-    <copyright><![CDATA[©板垣巴留（秋田書店）／BEASTARS製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/bst191230qRN6.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/bst/image/706_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/bst191230qRN6.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/bst191230qRN6.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>榎木淳弥,小林親弘</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>07</program_number>
-    <up_date>2019-12-30 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>小林親弘</name>
-      </personality>
-      <personality>
-        <name>榎木淳弥</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="kjg">
-    <title>神田川JET GIRLS～凛とミサのJET RADIO～</title>
-    <copyright><![CDATA[ⓒ2019 KJG PARTNERS]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kjg200106ZE7c.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/kjg/image/708_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kjg200106ZE7c.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kjg200106ZE7c.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>神田川ジェット</program_tag>
-    <actor_tag>篠原侑,小原莉子</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>06</program_number>
-    <up_date>2020-01-06 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>篠原侑</name>
-      </personality>
-      <personality>
-        <name>小原莉子</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="karaokedanshi">
-    <title>音泉ジュニアのラジオ「千葉瑞己・佐藤元・五十嵐巧巳のカラオケ男子会」</title>
-    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/karaokedanshi200106T5uL.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/karaokedanshi/image/710_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/karaokedanshi200106T5uL.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/karaokedanshi200106T5uL.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>五十嵐巧巳,佐藤元,千葉瑞己</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>05</program_number>
-    <up_date>2020-01-06 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>千葉瑞己</name>
-      </personality>
-      <personality>
-        <name>佐藤元</name>
-      </personality>
-      <personality>
-        <name>五十嵐巧巳</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="sugumeshi">
-    <title>音泉ジュニアのラジオ「雨宮夕夏・星谷美緒・守屋亨香の#すぐめし」</title>
-    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/sugumeshi200113q3GV.mp4</movie_url>
-    <sound_video>2</sound_video>
-    <banner_image>/program/sugumeshi/image/711_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/sugumeshi200113q3GV.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/sugumeshi200113q3GV.mp4</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>雨宮夕夏,星谷美緒,守屋亨香</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>0</radio>
-      <movie>1</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>05</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>雨宮夕夏</name>
-      </personality>
-      <personality>
-        <name>星谷美緒</name>
-      </personality>
-      <personality>
-        <name>守屋亨香</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="dagashi">
-    <title>音泉ジュニアのラジオ「卯野春香・湊元りょう・坂下拓郎の暇だからゲームやる」</title>
-    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/dagashi200113q3GV.mp4</movie_url>
-    <sound_video>2</sound_video>
-    <banner_image>/program/dagashi/image/712_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/dagashi200113q3GV.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/dagashi200113q3GV.mp4</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>坂下拓郎,卯野春香,湊元りょう</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>0</radio>
-      <movie>1</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>06</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>坂下拓郎</name>
-      </personality>
-      <personality>
-        <name>卯野春香</name>
-      </personality>
-      <personality>
-        <name>湊元りょう</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="shitsuji">
-    <title>音泉ジュニアのラジオ「飯田友子・村井美里のお客様を喜ばせたい！」</title>
-    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shitsuji200113q3GV.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/shitsuji/image/713_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shitsuji200113q3GV.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shitsuji200113q3GV.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>飯田友子,村井美里</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>06</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>飯田友子</name>
-      </personality>
-      <personality>
-        <name>村井美里</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="gugl">
-    <title>6-シックス-のゲラゲラジオ</title>
-    <copyright><![CDATA[© MBS／ゲラゲラ製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gugl200113PLu8.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/gugl/image/717_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gugl200113PLu8.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gugl200113PLu8.mp3</android_url>
+    <banner_image>/program/mahouritsu/image/788_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mahouritsu200720Jz7S.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mahouritsu200720Jz7S.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
     <actor_tag></actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>02</program_number>
+    <up_date>2020-07-20 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>村瀬歩</name>
+      </personality>
+      <personality>
+        <name>林勇</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="oshitai">
+    <title>瀬戸麻沙美と日高里菜のお（を）したい！</title>
+    <copyright><![CDATA[]]></copyright>
+    <is_app>1</is_app>
+    <wday>1</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/oshitai/image/792_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id>tate</recommend_program_id>
+    <recommends/>
+    <program_tag>瀬戸麻沙美,日高里菜,おしたい,をしたい</program_tag>
+    <actor_tag>瀬戸麻沙美,日高里菜</actor_tag>
     <category>
       <new>1</new>
       <radio>1</radio>
@@ -746,14 +580,80 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>03</program_number>
-    <up_date>2020-01-13 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>阿座上洋平</name>
+        <name>瀬戸麻沙美</name>
       </personality>
       <personality>
-        <name>熊谷健太郎</name>
+        <name>日高里菜</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="battle">
+    <title>佐藤日向・小泉萌香のバトってダイナソー☆</title>
+    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>1</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/battle/image/797_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>もえぴな</program_tag>
+    <actor_tag>佐藤日向,小泉萌香</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>佐藤日向</name>
+      </personality>
+      <personality>
+        <name>小泉萌香</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="survey">
+    <title>富田美憂・前田佳織里の“調査のご依頼、お待ちしてます！”</title>
+    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>1</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/survey/image/796_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>みゆかおり</program_tag>
+    <actor_tag>富田美憂,前田佳織里</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>富田美憂</name>
+      </personality>
+      <personality>
+        <name>前田佳織里</name>
       </personality>
     </personalities>
   </program>
@@ -764,11 +664,11 @@
     <wday>1</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/miabyss191216LB8o.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/miabyss200224CTC3.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/miabyss/image/470_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/miabyss191216LB8o.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/miabyss191216LB8o.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/miabyss200224CTC3.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/miabyss200224CTC3.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -782,8 +682,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>15</program_number>
-    <up_date>2019-12-16 00:00:00</up_date>
+    <program_number>18</program_number>
+    <up_date>2020-02-24 00:00:00</up_date>
     <personalities>
       <personality>
         <name>富田美憂</name>
@@ -793,45 +693,6 @@
       </personality>
       <personality>
         <name>井澤詩織</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="tetsuradi">
-    <title>鉄華団放送局</title>
-    <copyright><![CDATA[©創通・サンライズ・MBS]]></copyright>
-    <is_app>1</is_app>
-    <wday>1</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url></movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/tetsuradi/image/275_pgi03_s.jpg</banner_image>
-    <iphone_url></iphone_url>
-    <android_url></android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends>
-      <recommend>
-        <name>ラジオCD「鉄華団放送局」Vol.1 </name>
-        <image>/common/image/cms/recommend/178_rcmd01.jpg</image>
-      </recommend>
-    </recommends>
-    <program_tag>機動戦士ガンダム,鉄血のオルフェンズ</program_tag>
-    <actor_tag>河西健吾,寺崎裕香</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <personalities>
-      <personality>
-        <name>河西健吾</name>
-      </personality>
-      <personality>
-        <name>寺崎裕香</name>
       </personality>
     </personalities>
   </program>
@@ -906,11 +767,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kakazu200114D7uG.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kakazu200714Y5Bz.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/kakazu/image/95_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kakazu200114D7uG.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kakazu200114D7uG.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kakazu200714Y5Bz.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kakazu200714Y5Bz.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>かかず,大和魂</program_tag>
@@ -924,8 +785,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>832</program_number>
-    <up_date>2020-01-14 00:00:00</up_date>
+    <program_number>858</program_number>
+    <up_date>2020-07-14 00:00:00</up_date>
     <personalities>
       <personality>
         <name>かかずゆみ</name>
@@ -939,11 +800,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/otomateclub2001072HZg.mp3</movie_url>
-    <sound_video>1</sound_video>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/otomateclub200317J2tJ.mp4</movie_url>
+    <sound_video>2</sound_video>
     <banner_image>/program/otomateclub/image/347_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/otomateclub2001072HZg.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/otomateclub2001072HZg.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/otomateclub200317J2tJ.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/otomateclub200317J2tJ.mp4</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -957,8 +818,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>90</program_number>
-    <up_date>2020-01-07 00:00:00</up_date>
+    <program_number>95</program_number>
+    <up_date>2020-03-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>津田健次郎</name>
@@ -975,11 +836,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/who200114D7uG.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/who200714Y5Bz.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/who/image/352_pgi04_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/who200114D7uG.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/who200114D7uG.mp3</android_url>
+    <banner_image>/program/who/image/352_pgi05_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/who200714Y5Bz.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/who200714Y5Bz.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -993,8 +854,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>186</program_number>
-    <up_date>2020-01-14 00:00:00</up_date>
+    <program_number>207</program_number>
+    <up_date>2020-07-14 00:00:00</up_date>
     <personalities>
       <personality>
         <name>野村香菜子</name>
@@ -1014,11 +875,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/friend200114D7uG.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/friend200714Y5Bz.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/friend/image/422_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/friend200114D7uG.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/friend200114D7uG.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/friend200714Y5Bz.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/friend200714Y5Bz.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>ぼくフレ</program_tag>
@@ -1032,8 +893,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>155</program_number>
-    <up_date>2020-01-14 00:00:00</up_date>
+    <program_number>172</program_number>
+    <up_date>2020-07-14 00:00:00</up_date>
     <personalities>
       <personality>
         <name>天﨑滉平</name>
@@ -1050,11 +911,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/toshitai200114GFg4.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/toshitai200714fI2A.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/toshitai/image/327_pgi05_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/toshitai200114GFg4.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/toshitai200114GFg4.mp3</android_url>
+    <banner_image>/program/toshitai/image/327_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/toshitai200714fI2A.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/toshitai200714fI2A.mp3</android_url>
     <recommend_program_id>saekano</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1068,8 +929,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>198</program_number>
-    <up_date>2020-01-14 00:00:00</up_date>
+    <program_number>224</program_number>
+    <up_date>2020-07-14 00:00:00</up_date>
     <personalities>
       <personality>
         <name>佐倉綾音</name>
@@ -1086,11 +947,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/omimi191224yN7U.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/omimi200623HO0q.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/omimi/image/535_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/omimi191224yN7U.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/omimi191224yN7U.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/omimi200623HO0q.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/omimi200623HO0q.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1104,8 +965,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>32</program_number>
-    <up_date>2019-12-24 00:00:00</up_date>
+    <program_number>38</program_number>
+    <up_date>2020-06-23 00:00:00</up_date>
     <personalities>
       <personality>
         <name>高野麻里佳</name>
@@ -1125,11 +986,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kanryo2001072HZg.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kanryo200707PH8a.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/kanryo/image/583_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kanryo2001072HZg.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kanryo2001072HZg.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kanryo200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kanryo200707PH8a.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1143,8 +1004,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>42</program_number>
-    <up_date>2020-01-07 00:00:00</up_date>
+    <program_number>55</program_number>
+    <up_date>2020-07-07 00:00:00</up_date>
     <personalities>
       <personality>
         <name>木村良平</name>
@@ -1158,11 +1019,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tomoradi2001072HZg.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tomoradi200707PH8a.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/tomoradi/image/596_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tomoradi2001072HZg.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tomoradi2001072HZg.mp3</android_url>
+    <banner_image>/program/tomoradi/image/596_pgi03_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tomoradi200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tomoradi200707PH8a.mp3</android_url>
     <recommend_program_id>ggo</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1176,8 +1037,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>40</program_number>
-    <up_date>2020-01-07 00:00:00</up_date>
+    <program_number>53</program_number>
+    <up_date>2020-07-07 00:00:00</up_date>
     <personalities>
       <personality>
         <name>楠木ともり</name>
@@ -1191,11 +1052,11 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/new2001072HZg.mp4</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/new200609Vn3U.mp4</movie_url>
     <sound_video>2</sound_video>
-    <banner_image>/program/new1/image/670_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/new2001072HZg.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/new2001072HZg.mp4</android_url>
+    <banner_image>/program/new1/image/670_pgi04_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/new200609Vn3U.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/new200609Vn3U.mp4</android_url>
     <recommend_program_id>onsenking</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1209,8 +1070,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>16</program_number>
-    <up_date>2020-01-07 00:00:00</up_date>
+    <program_number>26</program_number>
+    <up_date>2020-06-09 00:00:00</up_date>
     <personalities>
       <personality>
         <name>佐藤祐吾</name>
@@ -1220,58 +1081,55 @@
       </personality>
     </personalities>
   </program>
-  <program id="togari">
-    <title>相坂優歌と前田玲奈のトガリズム</title>
-    <copyright><![CDATA[]]></copyright>
+  <program id="dolls">
+    <title>東京ドールズRADIO！―国土調査院放送局―</title>
+    <copyright><![CDATA[ⓒSQUARE ENIX]]></copyright>
     <is_app>1</is_app>
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/togari200114R8sS.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/dolls200707PH8a.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/togari/image/678_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/togari200114R8sS.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/togari200114R8sS.mp3</android_url>
+    <banner_image>/program/dolls/image/679_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/dolls200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/dolls200707PH8a.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag>トガラジ</program_tag>
-    <actor_tag>相坂優歌,前田玲奈</actor_tag>
+    <program_tag>東京ドールズ</program_tag>
+    <actor_tag>明坂聡美</actor_tag>
     <category>
       <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
+      <radio>0</radio>
+      <movie>1</movie>
       <niconama>0</niconama>
       <live>0</live>
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>15</program_number>
-    <up_date>2020-01-14 00:00:00</up_date>
+    <program_number>20</program_number>
+    <up_date>2020-07-07 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>相坂優歌</name>
-      </personality>
-      <personality>
-        <name>前田玲奈</name>
+        <name>明坂聡美</name>
       </personality>
     </personalities>
   </program>
-  <program id="kf3">
-    <title>ラジオ『けものフレンズ３』</title>
-    <copyright><![CDATA[©けものフレンズプロジェクト２Ｇ ©SEGA]]></copyright>
+  <program id="togari">
+    <title>相坂優歌と前田玲奈のトガリズム２</title>
+    <copyright><![CDATA[]]></copyright>
     <is_app>1</is_app>
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kf3191112qJO8.mp4</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/togari200714CTg6.mp4</movie_url>
     <sound_video>2</sound_video>
-    <banner_image>/program/kf3/image/694_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kf3191112qJO8.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kf3191112qJO8.mp4</android_url>
+    <banner_image>/program/togari/image/678_pgi03_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/togari200714CTg6.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/togari200714CTg6.mp4</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag>けもフレ</program_tag>
-    <actor_tag>和泉風花,柳原かなこ,伏見はる香,未来みき,小泉萌香,船戸ゆり絵</actor_tag>
+    <program_tag>トガラジ</program_tag>
+    <actor_tag>相坂優歌,前田玲奈</actor_tag>
     <category>
       <new>0</new>
       <radio>0</radio>
@@ -1282,38 +1140,13 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
     <program_number>08</program_number>
-    <up_date>2019-11-12 00:00:00</up_date>
-  </program>
-  <program id="shincho-yusha">
-    <title>「ラジオ慎重勇者」～このラジオが面SHIREEEくせに慎重すぎる～</title>
-    <copyright><![CDATA[ⓒ土日月・とよた瑣織／KADOKAWA／慎重勇者製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>2</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shincho-yusha2001072HZg.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/shincho-yusha/image/699_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shincho-yusha2001072HZg.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shincho-yusha2001072HZg.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>慎重勇者</program_tag>
-    <actor_tag>豊崎愛生</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>07</program_number>
-    <up_date>2020-01-07 00:00:00</up_date>
+    <up_date>2020-07-14 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>豊崎愛生</name>
+        <name>相坂優歌</name>
+      </personality>
+      <personality>
+        <name>前田玲奈</name>
       </personality>
     </personalities>
   </program>
@@ -1324,15 +1157,129 @@
     <wday>2</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/plunderer2001072HZg.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/plunderer200707PH8a.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/plunderer/image/719_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/plunderer2001072HZg.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/plunderer2001072HZg.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/plunderer200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/plunderer200707PH8a.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>pldr,プランダラ</program_tag>
     <actor_tag>中島ヨシキ,本泉莉奈</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>14</program_number>
+    <up_date>2020-07-07 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>中島ヨシキ</name>
+      </personality>
+      <personality>
+        <name>本泉莉奈</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="teibo">
+    <title>放課後ていぼうラジオ</title>
+    <copyright><![CDATA[©小坂泰之（秋田書店）／海野高校ていぼう部]]></copyright>
+    <is_app>1</is_app>
+    <wday>2</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/teibo200707PH8a.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/teibo/image/735_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/teibo200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/teibo200707PH8a.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>ていぼう</program_tag>
+    <actor_tag>高尾奏音,川井田夏海</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>03</program_number>
+    <up_date>2020-07-07 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>高尾奏音</name>
+      </personality>
+      <personality>
+        <name>川井田夏海</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="euphonium">
+    <title>響け！ユーフォラジオ</title>
+    <copyright><![CDATA[©武田綾乃・宝島社／『響け！』製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>2</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/euphonium200707PH8a.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/euphonium/image/224_pgi05_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/euphonium200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/euphonium200707PH8a.mp3</android_url>
+    <recommend_program_id>yuyuyu,kuzu,popin-q</recommend_program_id>
+    <recommends/>
+    <program_tag>響け！ユーフォニアム,ラジオ</program_tag>
+    <actor_tag>黒沢ともよ,安済知佳,朝井彩加,豊田萌絵</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>SP</program_number>
+    <up_date>2020-07-07 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>黒沢ともよ</name>
+      </personality>
+      <personality>
+        <name>安済知佳</name>
+      </personality>
+      <personality>
+        <name>豊田萌絵</name>
+      </personality>
+      <personality>
+        <name>朝井彩加</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="gochiusabloom">
+    <title>ご注文はラジオですか？BLOOM</title>
+    <copyright><![CDATA[ⓒKoi・芳文社／ご注文はBLOOM製作委員会ですか？]]></copyright>
+    <is_app>1</is_app>
+    <wday>2</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gochiusabloom200707PH8a.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/gochiusabloom/image/784_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gochiusabloom200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gochiusabloom200707PH8a.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>gochiusa,ごちうさ</program_tag>
+    <actor_tag>佐倉綾音,水瀬いのり</actor_tag>
     <category>
       <new>1</new>
       <radio>1</radio>
@@ -1343,13 +1290,140 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
     <program_number>01</program_number>
-    <up_date>2020-01-07 00:00:00</up_date>
+    <up_date>2020-07-07 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>中島ヨシキ</name>
+        <name>佐倉綾音</name>
       </personality>
       <personality>
-        <name>本泉莉奈</name>
+        <name>水瀬いのり</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="dialogue">
+    <title>DIALOGUE＋ONLINE</title>
+    <copyright><![CDATA[©PONY CANYON ALL RIGHTS RESERVED.]]></copyright>
+    <is_app>1</is_app>
+    <wday>2</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/dialogue200714Y5Bz.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/dialogue/image/769_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/dialogue200714Y5Bz.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/dialogue200714Y5Bz.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag></actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+  </program>
+  <program id="ishimigaki">
+    <title>石谷春貴、ラジオで磨く。</title>
+    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>2</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ishimigaki200707PH8a.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/ishimigaki/image/787_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ishimigaki200707PH8a.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ishimigaki200707PH8a.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>いしみがき</program_tag>
+    <actor_tag>石谷春貴</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>01</program_number>
+    <up_date>2020-07-07 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>石谷春貴</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="nkm">
+    <title>のむこがみなみ</title>
+    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>2</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/nkm/image/799_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>のむこがみなみ</program_tag>
+    <actor_tag>野村香菜子,古賀葵,南早紀</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>野村香菜子</name>
+      </personality>
+      <personality>
+        <name>古賀葵</name>
+      </personality>
+      <personality>
+        <name>南早紀</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="ai">
+    <title>ファイルーズあいの“愛”・ルーズ・Fight！</title>
+    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>2</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>2</sound_video>
+    <banner_image>/program/ai/image/798_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>ファイ愛</program_tag>
+    <actor_tag>ファイルーズあい</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>0</radio>
+      <movie>1</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>ファイルーズあい</name>
       </personality>
     </personalities>
   </program>
@@ -1360,11 +1434,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/anime1912257Sbe.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/anime200624g5SC.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/anime/image/61_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/anime1912257Sbe.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/anime1912257Sbe.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/anime200624g5SC.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/anime200624g5SC.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1378,8 +1452,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>187</program_number>
-    <up_date>2019-12-25 00:00:00</up_date>
+    <program_number>191</program_number>
+    <up_date>2020-06-24 00:00:00</up_date>
     <personalities>
       <personality>
         <name>檜山修之</name>
@@ -1393,11 +1467,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/rst191225LR2S.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/rst200629pKm7.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/rst/image/287_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/rst191225LR2S.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/rst191225LR2S.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/rst200629pKm7.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/rst200629pKm7.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1411,24 +1485,17 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
+    <program_number>04</program_number>
+    <up_date>2020-06-29 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>牧野天音</name>
+        <name>高橋未奈美</name>
       </personality>
       <personality>
-        <name>鬼頭明里</name>
+        <name>諏訪彩花</name>
       </personality>
       <personality>
-        <name>田澤茉純</name>
-      </personality>
-      <personality>
-        <name>空見ゆき</name>
-      </personality>
-      <personality>
-        <name>立花芽恵夢</name>
-      </personality>
-      <personality>
-        <name>岩橋由佳</name>
+        <name>田中あいみ</name>
       </personality>
     </personalities>
   </program>
@@ -1439,15 +1506,15 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/moa200108aR5O.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/moa200708By2P.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/moa/image/360_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/moa200108aR5O.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/moa200108aR5O.mp3</android_url>
+    <banner_image>/program/moa/image/360_pgi04_s.png</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/moa200708By2P.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/moa200708By2P.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
-    <actor_tag>Ayumi.,杏花</actor_tag>
+    <actor_tag>Ayumi.,八ッ橋しなもん</actor_tag>
     <category>
       <new>0</new>
       <radio>1</radio>
@@ -1457,14 +1524,14 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>84</program_number>
-    <up_date>2020-01-08 00:00:00</up_date>
+    <program_number>95</program_number>
+    <up_date>2020-07-08 00:00:00</up_date>
     <personalities>
       <personality>
         <name>Ayumi.</name>
       </personality>
       <personality>
-        <name>杏花</name>
+        <name>八ッ橋しなもん</name>
       </personality>
     </personalities>
   </program>
@@ -1475,11 +1542,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/matsui200115vLZ2.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/matsui200715GB5q.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/matsui/image/399_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/matsui200115vLZ2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/matsui200115vLZ2.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/matsui200715GB5q.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/matsui200715GB5q.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>にじらじ</program_tag>
@@ -1493,39 +1560,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>162</program_number>
-    <up_date>2020-01-15 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>松井恵理子</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="matsui-p">
-    <title>【再配信】松井恵理子のにじらじっ！</title>
-    <copyright><![CDATA[]]></copyright>
-    <is_app>1</is_app>
-    <wday>3</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url></movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/matsui-p/image/663_pgi01_s.jpg</banner_image>
-    <iphone_url></iphone_url>
-    <android_url></android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>松井恵理子</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
+    <program_number>188</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
     <personalities>
       <personality>
         <name>松井恵理子</name>
@@ -1534,16 +1570,16 @@
   </program>
   <program id="stb">
     <title>ストブらじお 雪菜と凪沙のおとなり放送局</title>
-    <copyright><![CDATA[ⓒ2018 三雲岳斗／KADOKAWA　アスキー・メディアワークス／PROJECT STB OVA]]></copyright>
+    <copyright><![CDATA[©2019 三雲岳斗／KADOKAWA／PROJECT STB OVA]]></copyright>
     <is_app>1</is_app>
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/stb191002c5Zc.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/stb200715xQC3.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/stb/image/53_pgi04_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/stb191002c5Zc.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/stb191002c5Zc.mp3</android_url>
+    <banner_image>/program/stb/image/53_pgi05_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/stb200715xQC3.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/stb200715xQC3.mp3</android_url>
     <recommend_program_id>glasslip,blackbullet,gochiusa,selector</recommend_program_id>
     <recommends>
       <recommend>
@@ -1562,8 +1598,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>52</program_number>
-    <up_date>2019-10-02 00:00:00</up_date>
+    <program_number>55</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
     <personalities>
       <personality>
         <name>種田梨沙</name>
@@ -1580,11 +1616,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kumagami200115vLZ2.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kumagami200715GB5q.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/kumagami/image/488_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kumagami200115vLZ2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kumagami200115vLZ2.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kumagami200715GB5q.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kumagami200715GB5q.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1598,80 +1634,14 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>123</program_number>
-    <up_date>2020-01-15 00:00:00</up_date>
+    <program_number>140</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
     <personalities>
       <personality>
         <name>野上翔</name>
       </personality>
       <personality>
         <name>熊谷健太郎</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="tojinomiko">
-    <title>本渡楓のとじらじ！</title>
-    <copyright><![CDATA[ⓒ伍箇伝計画／刀使ノ巫女製作委員会 ⓒ2018 SQUARE ENIX CO., LTD. All Rights Reserved.]]></copyright>
-    <is_app>1</is_app>
-    <wday>3</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url></movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/tojinomiko/image/593_pgi03_s.jpg</banner_image>
-    <iphone_url></iphone_url>
-    <android_url></android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>本渡楓</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>31</program_number>
-    <up_date>2019-12-20 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>本渡楓</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="mimikaki">
-    <title>耳かきマッドサイエンティスト伊ヶ崎がダミヘで世界征服を目論むラジオ</title>
-    <copyright><![CDATA[]]></copyright>
-    <is_app>1</is_app>
-    <wday>3</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mimikaki200115vLZ2.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/mimikaki/image/570_pgi01_s.png</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mimikaki200115vLZ2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mimikaki200115vLZ2.mp3</android_url>
-    <recommend_program_id>damihe</recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>伊ヶ崎綾香</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>60</program_number>
-    <up_date>2020-01-15 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>伊ヶ崎綾香</name>
       </personality>
     </personalities>
   </program>
@@ -1682,11 +1652,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kimetsu191225LR2S.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kimetsu200624DS0v.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/kimetsu/image/652_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kimetsu191225LR2S.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kimetsu191225LR2S.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kimetsu200624DS0v.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kimetsu200624DS0v.mp3</android_url>
     <recommend_program_id>hanayume,onsenking</recommend_program_id>
     <recommends/>
     <program_tag>鬼滅の刃</program_tag>
@@ -1700,8 +1670,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>34</program_number>
-    <up_date>2019-12-25 00:00:00</up_date>
+    <program_number>40</program_number>
+    <up_date>2020-06-24 00:00:00</up_date>
     <personalities>
       <personality>
         <name>花江夏樹</name>
@@ -1711,22 +1681,22 @@
       </personality>
     </personalities>
   </program>
-  <program id="takagi3">
-    <title>TVアニメ『からかい上手の高木さん』Presents からかい上手の高"橋"さんラジオ２</title>
-    <copyright><![CDATA[ⓒ2019 山本崇一朗・小学館／からかい上手の高木さん２製作委員会]]></copyright>
+  <program id="mimikaki">
+    <title>耳かきマッドサイエンティスト伊ヶ崎がダミヘで世界征服を目論むラジオ</title>
+    <copyright><![CDATA[]]></copyright>
     <is_app>1</is_app>
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/takagi3191002c5Zc.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mimikaki200715GB5q.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/takagi3/image/529_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/takagi3191002c5Zc.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/takagi3191002c5Zc.mp3</android_url>
-    <recommend_program_id>shigohaji</recommend_program_id>
+    <banner_image>/program/mimikaki/image/570_pgi01_s.png</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mimikaki200715GB5q.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mimikaki200715GB5q.mp3</android_url>
+    <recommend_program_id>damihe</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
-    <actor_tag>高橋李依</actor_tag>
+    <actor_tag>伊ヶ崎綾香</actor_tag>
     <category>
       <new>0</new>
       <radio>1</radio>
@@ -1736,11 +1706,47 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>08</program_number>
-    <up_date>2019-10-02 00:00:00</up_date>
+    <program_number>77</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>高橋李依</name>
+        <name>伊ヶ崎綾香</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="sega_girls">
+    <title>セガ ガールズ通信　広報宣伝ラジオ</title>
+    <copyright><![CDATA[©SEGA]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/sega_girls200701K7fO.mp4</movie_url>
+    <sound_video>2</sound_video>
+    <banner_image>/program/sega_girls/image/428_pgi03_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/sega_girls200701K7fO.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/sega_girls200701K7fO.mp4</android_url>
+    <recommend_program_id>yp_radio</recommend_program_id>
+    <recommends/>
+    <program_tag>セガ,ガールズ</program_tag>
+    <actor_tag>白井悠介,代永翼</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>0</radio>
+      <movie>1</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>23</program_number>
+    <up_date>2020-07-01 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>白井悠介</name>
+      </personality>
+      <personality>
+        <name>濱健人</name>
       </personality>
     </personalities>
   </program>
@@ -1751,11 +1757,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shizakura200108m9AX.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shizakura200401hGH0.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/shizakura/image/354_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shizakura200108m9AX.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shizakura200108m9AX.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shizakura200401hGH0.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shizakura200401hGH0.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1769,150 +1775,14 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>44</program_number>
-    <up_date>2020-01-08 00:00:00</up_date>
+    <program_number>47</program_number>
+    <up_date>2020-04-01 00:00:00</up_date>
     <personalities>
       <personality>
         <name>清水彩香</name>
       </personality>
       <personality>
         <name>中村桜</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="renca-an">
-    <title>保志総一朗 presents RenCa:A/N ラジオ 『RenCa:PPPPR』</title>
-    <copyright><![CDATA[©2019 Beaglee Inc./ Alt Plus Inc.]]></copyright>
-    <is_app>1</is_app>
-    <wday>3</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/renca-an191127YQ0x.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/renca-an/image/715_pgi01_s.png</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/renca-an191127YQ0x.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/renca-an191127YQ0x.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag></actor_tag>
-    <category>
-      <new>1</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>1</is_outmovie>
-    <personalities>
-      <personality>
-        <name>保志総一朗</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="pipecat">
-    <title>歌舞伎町シャーロック～パイプキャットラジオ～</title>
-    <copyright><![CDATA[ⓒ歌舞伎町シャーロック製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>3</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/pipecat200108aR5O.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/pipecat/image/692_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/pipecat200108aR5O.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/pipecat200108aR5O.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>歌舞伎町シャーロック</program_tag>
-    <actor_tag>諏訪部順一,橘龍丸</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>07</program_number>
-    <up_date>2020-01-08 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>諏訪部順一</name>
-      </personality>
-      <personality>
-        <name>橘龍丸</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="dolls">
-    <title>東京ドールズRADIO！―国土調査院放送局―</title>
-    <copyright><![CDATA[ⓒSQUARE ENIX]]></copyright>
-    <is_app>1</is_app>
-    <wday>3</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/dolls191225LR2S.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/dolls/image/679_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/dolls191225LR2S.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/dolls191225LR2S.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>東京ドールズ</program_tag>
-    <actor_tag>明坂聡美</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>11</program_number>
-    <up_date>2019-12-25 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>明坂聡美</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="bofuri">
-    <title>メイプルとサリーの防御特化とインターネットラジオ</title>
-    <copyright><![CDATA[ⓒ2020 夕蜜柑・狐印／KADOKAWA／防振り製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>3</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/bofuri200115PZ3z.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/bofuri/image/725_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/bofuri200115PZ3z.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/bofuri200115PZ3z.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>防振り</program_tag>
-    <actor_tag>本渡楓,野口瑠璃子</actor_tag>
-    <category>
-      <new>1</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>01</program_number>
-    <up_date>2020-01-15 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>本渡楓</name>
-      </personality>
-      <personality>
-        <name>野口瑠璃子</name>
       </personality>
     </personalities>
   </program>
@@ -1923,15 +1793,192 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/pjsekai200115vLZ2.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/pjsekai200226V4qX.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/pjsekai/image/722_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/pjsekai200115vLZ2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/pjsekai200115vLZ2.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/pjsekai200226V4qX.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/pjsekai200226V4qX.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
     <actor_tag>伊東健人</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>08</program_number>
+    <up_date>2020-02-26 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>土岐隼一</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="yuukiyui">
+    <title>ゆうきとゆいのラジオで２人暮らし♡</title>
+    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/yuukiyui200708Tr1I.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/yuukiyui/image/728_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/yuukiyui200708Tr1I.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/yuukiyui200708Tr1I.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>高田憂希,中島唯</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>12</program_number>
+    <up_date>2020-07-08 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>高田憂希</name>
+      </personality>
+      <personality>
+        <name>中島唯</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="nonpetit">
+    <title>MoeMiののんびりプティフール</title>
+    <copyright><![CDATA[©株式会社JVCケンウッド・ビクターエンタテインメント]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/nonpetit200715By2P.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/nonpetit/image/762_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/nonpetit200715By2P.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/nonpetit200715By2P.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>MoeMi</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>15</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>MoeMi</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="rezelos">
+    <title>Re:ゼロから始める異世界生活 Lost in Memories　～ルグニカ王国伝令局～　リゼロス通信</title>
+    <copyright><![CDATA[ⓒ長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会 ©SEGA]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/rezelos200715GB5q.mp4</movie_url>
+    <sound_video>2</sound_video>
+    <banner_image>/program/rezelos/image/778_pgi01_s.PNG</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/rezelos200715GB5q.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/rezelos200715GB5q.mp4</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>江口拓也,小林裕介,村川梨衣</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>0</radio>
+      <movie>1</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>03</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>江口拓也</name>
+      </personality>
+      <personality>
+        <name>内山夕実</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="ongeki">
+    <title>オンゲキ ～ドはオンゲキのド スペシャル～</title>
+    <copyright><![CDATA[ⓒSEGA]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ongeki200624g5SC.mp4</movie_url>
+    <sound_video>2</sound_video>
+    <banner_image>/program/ongeki/image/777_pgi03_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ongeki200624g5SC.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ongeki200624g5SC.mp4</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>赤尾ひかる,橋本ちなみ,和泉風花</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>0</radio>
+      <movie>1</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>SP2</program_number>
+    <up_date>2020-06-24 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>橋本ちなみ</name>
+      </personality>
+      <personality>
+        <name>長縄まりあ</name>
+      </personality>
+      <personality>
+        <name>岡咲美保</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="maoh">
+    <title>魔王学院の不適合者　～史上最強の魔王の始祖、転生して子孫たちのラジオに出る～</title>
+    <copyright><![CDATA[ⓒ2019 秋/KADOKAWA/Demon King Academy]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/maoh200715GB5q.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/maoh/image/781_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/maoh200715GB5q.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/maoh200715GB5q.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>魔王学院</program_tag>
+    <actor_tag>楠木ともり,夏吉ゆうこ</actor_tag>
     <category>
       <new>1</new>
       <radio>1</radio>
@@ -1941,11 +1988,120 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>02</program_number>
-    <up_date>2020-01-15 00:00:00</up_date>
+    <program_number>03</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>佐藤日向</name>
+        <name>楠木ともり</name>
+      </personality>
+      <personality>
+        <name>夏吉ゆうこ</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="mon_isha">
+    <title>モンスター娘のお医者さんスペシャルラジオ　グレンとサーフェ、ドキドキ診療中！</title>
+    <copyright><![CDATA[©折口良乃・Zトン／集英社・リンドヴルム医師会]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mon_isha200708Tr1I.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/mon_isha/image/786_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mon_isha200708Tr1I.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mon_isha200708Tr1I.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>大西沙織,土岐隼一</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>SP</program_number>
+    <up_date>2020-07-08 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>土岐隼一</name>
+      </personality>
+      <personality>
+        <name>大西沙織</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="mikizirushi">
+    <title>三木眞一郎の三木印</title>
+    <copyright><![CDATA[]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/mikizirushi/image/789_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>三木印</program_tag>
+    <actor_tag>三木眞一郎</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>三木眞一郎</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="frasta">
+    <title>笠間淳・梶原岳人のふらっと紀行！ ～…え？スタジオからは出られないんですか？～</title>
+    <copyright><![CDATA[© Internet Radio Station＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/frasta200708By2P.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/frasta/image/791_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/frasta200708By2P.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/frasta200708By2P.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>笠間淳,梶原岳人</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>01</program_number>
+    <up_date>2020-07-08 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>笠間淳</name>
+      </personality>
+      <personality>
+        <name>梶原岳人</name>
+      </personality>
+      <personality>
+        <name>しもつかれ王子</name>
       </personality>
     </personalities>
   </program>
@@ -1956,11 +2112,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/llss200115vLZ2.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/llss200715GB5q.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/llss/image/74_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/llss200115vLZ2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/llss200115vLZ2.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/llss200715GB5q.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/llss200715GB5q.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -1974,8 +2130,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>197</program_number>
-    <up_date>2020-01-15 00:00:00</up_date>
+    <program_number>216</program_number>
+    <up_date>2020-07-15 00:00:00</up_date>
     <personalities>
       <personality>
         <name>斉藤朱夏</name>
@@ -1995,11 +2151,11 @@
     <wday>3</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url></movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/aniradiaward200129yDZ5.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/aniradiaward/image/434_pgi04_s.jpg</banner_image>
-    <iphone_url></iphone_url>
-    <android_url></android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/aniradiaward200129yDZ5.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/aniradiaward200129yDZ5.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2013,12 +2169,82 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
+    <program_number>SP</program_number>
+    <up_date>2020-01-29 00:00:00</up_date>
     <personalities>
       <personality>
         <name>鷲崎健</name>
       </personality>
       <personality>
         <name>鈴村健一</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="sasamori">
+    <title>ゆうときょうかの「あつまれ！ささもり！」</title>
+    <copyright><![CDATA[ⓒインターネットラジオステーション＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/sasamori/image/794_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>篠原侑,守屋亨香</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>篠原侑</name>
+      </personality>
+      <personality>
+        <name>守屋亨香</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="jks">
+    <title>会沢紗弥と花井美春の「まったく、女子高生は最高だぜ！！」</title>
+    <copyright><![CDATA[© インターネットラジオステーション＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>3</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/jks/image/795_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>会沢紗弥,花井美春</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>会沢紗弥</name>
+      </personality>
+      <personality>
+        <name>花井美春</name>
       </personality>
     </personalities>
   </program>
@@ -2065,11 +2291,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/otomain191226yLI5.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/otomain200709A9gU.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/otomain/image/305_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/otomain191226yLI5.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/otomain191226yLI5.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/otomain200709A9gU.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/otomain200709A9gU.mp3</android_url>
     <recommend_program_id>irodori</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2083,8 +2309,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>103</program_number>
-    <up_date>2019-12-26 00:00:00</up_date>
+    <program_number>116</program_number>
+    <up_date>2020-07-09 00:00:00</up_date>
     <personalities>
       <personality>
         <name>歩サラ</name>
@@ -2101,11 +2327,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/marika200116TPg1.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/marika200716MSu3.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/marika/image/496_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/marika200116TPg1.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/marika200116TPg1.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/marika200716MSu3.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/marika200716MSu3.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2119,8 +2345,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>59</program_number>
-    <up_date>2020-01-16 00:00:00</up_date>
+    <program_number>72</program_number>
+    <up_date>2020-07-16 00:00:00</up_date>
     <personalities>
       <personality>
         <name>高野麻里佳</name>
@@ -2134,11 +2360,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tsudaken200116TPg1.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tsudaken200716MSu3.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/tsudaken/image/511_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tsudaken200116TPg1.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tsudaken200116TPg1.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tsudaken200716MSu3.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tsudaken200716MSu3.mp3</android_url>
     <recommend_program_id>otomateclub</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2152,8 +2378,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>57</program_number>
-    <up_date>2020-01-16 00:00:00</up_date>
+    <program_number>67</program_number>
+    <up_date>2020-07-16 00:00:00</up_date>
     <personalities>
       <personality>
         <name>津田健次郎</name>
@@ -2167,15 +2393,15 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/yurucamp191226nXP4.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/yurucamp200703Lp3T.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/yurucamp/image/585_pgi05_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/yurucamp191226nXP4.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/yurucamp191226nXP4.mp3</android_url>
+    <banner_image>/program/yurucamp/image/585_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/yurucamp200703Lp3T.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/yurucamp200703Lp3T.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
-    <actor_tag>花守ゆみり,原紗友里</actor_tag>
+    <actor_tag>花守ゆみり,原紗友里,豊崎愛生</actor_tag>
     <category>
       <new>0</new>
       <radio>1</radio>
@@ -2185,8 +2411,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>19</program_number>
-    <up_date>2019-12-26 00:00:00</up_date>
+    <program_number>25</program_number>
+    <up_date>2020-07-02 00:00:00</up_date>
     <personalities>
       <personality>
         <name>花守ゆみり</name>
@@ -2200,11 +2426,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepa200109dQK1.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepa200709J5hA.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/gurepa/image/609_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepa200109dQK1.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepa200109dQK1.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepa200709J5hA.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepa200709J5hA.mp3</android_url>
     <recommend_program_id>fujita,gurepap</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2218,8 +2444,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>38</program_number>
-    <up_date>2020-01-09 00:00:00</up_date>
+    <program_number>51</program_number>
+    <up_date>2020-07-09 00:00:00</up_date>
     <personalities>
       <personality>
         <name>鷲崎健</name>
@@ -2236,11 +2462,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepap200116Az1H.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepap200716KfL6.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/gurepap/image/707_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepap200116Az1H.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepap200116Az1H.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepap200716KfL6.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gurepap200716KfL6.mp3</android_url>
     <recommend_program_id>gurepa,fujita,ore-ski</recommend_program_id>
     <recommends/>
     <program_tag>グレパP,グレパラジオP</program_tag>
@@ -2254,80 +2480,14 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>08</program_number>
-    <up_date>2020-01-16 00:00:00</up_date>
+    <program_number>21</program_number>
+    <up_date>2020-07-16 00:00:00</up_date>
     <personalities>
       <personality>
         <name>鷲崎健</name>
       </personality>
       <personality>
         <name>藤田茜</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="rezero">
-    <title>Re：ゼロから始める異世界ラジオ生活</title>
-    <copyright><![CDATA[©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>4</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/rezero191226yLI5.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/rezero/image/333_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/rezero191226yLI5.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/rezero191226yLI5.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>Re:ゼロから始める異世界生活,リゼロ</program_tag>
-    <actor_tag>高橋李依</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>1</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>50</program_number>
-    <up_date>2019-12-26 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>高橋李依</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="lover">
-    <title>マジカルユミナの今日もお兄ちゃんねる♪</title>
-    <copyright><![CDATA[©2019 KADOKAWA GAMES]]></copyright>
-    <is_app>1</is_app>
-    <wday>4</wday>
-    <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url></movie_url>
-    <sound_video>2</sound_video>
-    <banner_image>/program/lover/image/613_pgi03_s.jpg</banner_image>
-    <iphone_url></iphone_url>
-    <android_url></android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>LoveR, ラヴアール</program_tag>
-    <actor_tag>マジカルユミナ（CV&amp;ACT：花守ゆみり）</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>0</radio>
-      <movie>1</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>60</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>花守ゆみり</name>
       </personality>
     </personalities>
   </program>
@@ -2338,26 +2498,26 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/henshindanshi200116TPg1.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/henshindanshi200618Bh5N.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/henshindanshi/image/602_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/henshindanshi200116TPg1.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/henshindanshi200116TPg1.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/henshindanshi200618Bh5N.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/henshindanshi200618Bh5N.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
     <actor_tag>汐谷文康,浦尾岳大</actor_tag>
     <category>
       <new>0</new>
-      <radio>0</radio>
-      <movie>1</movie>
+      <radio>1</radio>
+      <movie>0</movie>
       <niconama>0</niconama>
       <live>0</live>
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>33</program_number>
-    <up_date>2020-01-16 00:00:00</up_date>
+    <program_number>41</program_number>
+    <up_date>2020-06-18 00:00:00</up_date>
     <personalities>
       <personality>
         <name>汐谷文康</name>
@@ -2374,11 +2534,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kotopan200109hOO5.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kotopan200709A9gU.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/kotopan/image/661_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kotopan200109hOO5.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kotopan200109hOO5.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kotopan200709A9gU.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kotopan200709A9gU.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>ことパン</program_tag>
@@ -2392,8 +2552,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>19</program_number>
-    <up_date>2020-01-09 00:00:00</up_date>
+    <program_number>32</program_number>
+    <up_date>2020-07-09 00:00:00</up_date>
     <personalities>
       <personality>
         <name>吉岡茉祐</name>
@@ -2410,11 +2570,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ippo200109hOO5.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ippo200709A9gU.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/ippo/image/668_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ippo200109hOO5.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ippo200109hOO5.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ippo200709A9gU.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ippo200709A9gU.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2428,8 +2588,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>17</program_number>
-    <up_date>2020-01-09 00:00:00</up_date>
+    <program_number>30</program_number>
+    <up_date>2020-07-09 00:00:00</up_date>
     <personalities>
       <personality>
         <name>釘宮理恵</name>
@@ -2443,11 +2603,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ore.ski191226yLI5.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ore.ski200326L3md.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/ore-ski/image/687_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ore.ski191226yLI5.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ore.ski191226yLI5.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ore.ski200326L3md.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ore.ski200326L3md.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>俺好き</program_tag>
@@ -2461,47 +2621,14 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>13</program_number>
-    <up_date>2019-12-26 00:00:00</up_date>
+    <program_number>16</program_number>
+    <up_date>2020-03-26 00:00:00</up_date>
     <personalities>
       <personality>
         <name>三澤紗千香</name>
       </personality>
       <personality>
         <name>鷲崎健</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="gineiden">
-    <title>銀河英雄伝説Die Neue These ラジオを聴いておいでですか？</title>
-    <copyright><![CDATA[©田中芳樹/松竹・Production I.G]]></copyright>
-    <is_app>1</is_app>
-    <wday>4</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gineiden191205r6QF.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/gineiden/image/684_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gineiden191205r6QF.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gineiden191205r6QF.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>梅原裕一郎</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>09</program_number>
-    <up_date>2019-12-05 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>梅原裕一郎</name>
       </personality>
     </personalities>
   </program>
@@ -2512,11 +2639,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/nashiradio200116TPg1.mp4</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/nashiradio200716MSu3.mp4</movie_url>
     <sound_video>2</sound_video>
     <banner_image>/program/nashiradio/image/700_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/nashiradio200116TPg1.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/nashiradio200116TPg1.mp4</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/nashiradio200716MSu3.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/nashiradio200716MSu3.mp4</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>梨ラジ</program_tag>
@@ -2530,8 +2657,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>08</program_number>
-    <up_date>2020-01-16 00:00:00</up_date>
+    <program_number>21</program_number>
+    <up_date>2020-07-16 00:00:00</up_date>
     <personalities>
       <personality>
         <name>高森奈津美</name>
@@ -2543,16 +2670,16 @@
   </program>
   <program id="iine">
     <title>天津向のためになるらじお</title>
-    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
+    <copyright><![CDATA[© Aniplex Inc. All rights reserved. ⓒInternet Radio Station＜音泉＞]]></copyright>
     <is_app>1</is_app>
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/iine200116S7Ke.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/iine200716KfL6.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/iine/image/703_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/iine200116S7Ke.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/iine200116S7Ke.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/iine200716KfL6.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/iine200716KfL6.mp3</android_url>
     <recommend_program_id>otomain</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2566,11 +2693,11 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>07</program_number>
-    <up_date>2020-01-16 00:00:00</up_date>
+    <program_number>20</program_number>
+    <up_date>2020-07-16 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>向清太朗</name>
+        <name>天津向</name>
       </personality>
       <personality>
         <name>洲崎綾</name>
@@ -2583,22 +2710,94 @@
       </personality>
     </personalities>
   </program>
-  <program id="noukin">
-    <title>私たち、ラジオは平均値でって言ったよね！</title>
-    <copyright><![CDATA[ＦＵＮＡ・亜方逸樹／アース・スター エンターテイメント／のうきん製作委員会  ]]></copyright>
+  <program id="zzradio">
+    <title>千田と日笠のゾイドワイルド ZEROラジオ</title>
+    <copyright><![CDATA[©ＴＯＭＹ／ＺＷ製作委員会・テレビ東京]]></copyright>
     <is_app>1</is_app>
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/noukin200109dQK1.mp4</movie_url>
-    <sound_video>2</sound_video>
-    <banner_image>/program/noukin/image/704_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/noukin200109dQK1.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/noukin200109dQK1.mp4</android_url>
-    <recommend_program_id>rst</recommend_program_id>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/zzradio200716MSu3.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/zzradio/image/737_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/zzradio200716MSu3.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/zzradio200716MSu3.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
-    <actor_tag>和氣あず未,徳井青空,内村史子,田澤茉純</actor_tag>
+    <actor_tag>日笠陽子,千田葉月</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>10</program_number>
+    <up_date>2020-07-16 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>千田葉月</name>
+      </personality>
+      <personality>
+        <name>日笠陽子</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="appare">
+    <title>「天晴爛漫！」Radio Here we go!!!!!</title>
+    <copyright><![CDATA[©2020 KADOKAWA/P.A.WORKS/天晴製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>4</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/appare200709A9gU.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/appare/image/736_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/appare200709A9gU.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/appare200709A9gU.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>天晴爛漫</program_tag>
+    <actor_tag>花江夏樹,山下誠一郎</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>02（再配信）</program_number>
+    <up_date>2020-07-09 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>花江夏樹</name>
+      </personality>
+      <personality>
+        <name>山下誠一郎</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="shachibato">
+    <title>社長、ラジオの時間です！シャチラジ！</title>
+    <copyright><![CDATA[(c)KADOKAWA・でらゲー・PREAPP PARTNERS／「シャチバト！」製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>4</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/shachibato200709A9gU.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/shachibato/image/740_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/shachibato200709A9gU.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/shachibato200709A9gU.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>シャチバト</program_tag>
+    <actor_tag>堀江瞬,市ノ瀬加那</actor_tag>
     <category>
       <new>0</new>
       <radio>1</radio>
@@ -2609,66 +2808,32 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
     <program_number>07</program_number>
-    <up_date>2020-01-09 00:00:00</up_date>
+    <up_date>2020-07-09 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>和氣あず未</name>
+        <name>堀江瞬</name>
       </personality>
       <personality>
-        <name>徳井青空</name>
-      </personality>
-      <personality>
-        <name>内村史子</name>
-      </personality>
-      <personality>
-        <name>田澤茉純</name>
+        <name>市ノ瀬加那</name>
       </personality>
     </personalities>
   </program>
-  <program id="railgun_t">
-    <title>とあるラジオの超電磁砲Ｔ　柵川中学放送部</title>
-    <copyright><![CDATA[ⓒ2018 鎌池和馬／冬川基／ＫＡＤＯＫＡＷＡ／]]></copyright>
+  <program id="uzakichan">
+    <title>宇崎ちゃんは遊びたい！　SUGOI RADIO ～先輩が可愛そうなんで一緒に喋ってあげるッス！～</title>
+    <copyright><![CDATA[ⓒ2020 丈／KADOKAWA／宇崎ちゃん製作委員会]]></copyright>
     <is_app>1</is_app>
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/railgun_t200109tyr1.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/uzakichan200709A9gU.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/railgun_t/image/720_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/railgun_t200109tyr1.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/railgun_t200109tyr1.mp3</android_url>
+    <banner_image>/program/uzakichan/image/780_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/uzakichan200709A9gU.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/uzakichan200709A9gU.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag>とある</program_tag>
-    <actor_tag>佐藤利奈,新井里美,豊崎愛生,伊藤かな恵</actor_tag>
-    <category>
-      <new>1</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>02</program_number>
-    <up_date>2020-01-09 00:00:00</up_date>
-  </program>
-  <program id="koiasradio">
-    <title>「恋する小惑星」★みらとあおの KiRA KiRADIO◆</title>
-    <copyright><![CDATA[ⓒQuro・芳文社／星咲高校地学部]]></copyright>
-    <is_app>1</is_app>
-    <wday>4</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/koiasradio200109hOO5.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/koiasradio/image/723_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/koiasradio200109hOO5.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/koiasradio200109hOO5.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>高柳知葉,山口愛</actor_tag>
+    <program_tag>宇崎ちゃん</program_tag>
+    <actor_tag>大空直美,赤羽根健治</actor_tag>
     <category>
       <new>1</new>
       <radio>1</radio>
@@ -2679,15 +2844,122 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
     <program_number>01</program_number>
-    <up_date>2020-01-09 00:00:00</up_date>
+    <up_date>2020-07-09 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>高柳知葉</name>
+        <name>大空直美</name>
       </personality>
       <personality>
-        <name>山口愛</name>
+        <name>赤羽根健治</name>
       </personality>
     </personalities>
+  </program>
+  <program id="project_red">
+    <title>レッドプライドオブエデンプレゼンツ『エデン大陸放送局』！</title>
+    <copyright><![CDATA[ⓒ2020 YOOZOO Games/C.L.Works]]></copyright>
+    <is_app>1</is_app>
+    <wday>4</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>2</sound_video>
+    <banner_image>/program/project_red/image/782_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>プラエデ,エデン大陸放送局</program_tag>
+    <actor_tag>大久保瑠美,大西沙織,沼倉愛美,内田彩,洲崎綾,浅野真澄,阿澄佳奈</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>1</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>大西沙織</name>
+      </personality>
+      <personality>
+        <name>大久保瑠美</name>
+      </personality>
+      <personality>
+        <name>沼倉愛美</name>
+      </personality>
+      <personality>
+        <name>洲崎綾</name>
+      </personality>
+      <personality>
+        <name>内田彩</name>
+      </personality>
+      <personality>
+        <name>阿澄佳奈</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="hxeros">
+    <title>-NEWS- ド級編隊エグゼロス</title>
+    <copyright><![CDATA[ⓒきただりょうま／集英社・ド級編隊エグゼロス製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>4</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/hxeros200716jO4U.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/hxeros/image/790_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/hxeros200716jO4U.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/hxeros200716jO4U.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>エグゼロス</program_tag>
+    <actor_tag>加隈亜衣</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>1</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>03</program_number>
+    <up_date>2020-07-16 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>加隈亜衣</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="hanadi">
+    <title>檜山修之とやまけんのただ座して噺すのみ！ラヂオ。</title>
+    <copyright><![CDATA[]]></copyright>
+    <is_app>1</is_app>
+    <wday>4</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/hanadi200709A9gU.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/hanadi/image/601_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/hanadi200709A9gU.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/hanadi200709A9gU.mp3</android_url>
+    <recommend_program_id>anime</recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>檜山修之,やまけん</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>01</program_number>
+    <up_date>2020-07-09 00:00:00</up_date>
   </program>
   <program id="mhr3">
     <title>モンハンラジオ 良三の部屋</title>
@@ -2696,11 +2968,11 @@
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mhr3200109hOO5.mp4</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mhr3200305D3jn.mp4</movie_url>
     <sound_video>2</sound_video>
     <banner_image>/program/mhr3/image/81_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mhr3200109hOO5.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mhr3200109hOO5.mp4</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mhr3200305D3jn.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mhr3200305D3jn.mp4</android_url>
     <recommend_program_id>mhr2,mhr4,mhrxx</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2714,8 +2986,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>129</program_number>
-    <up_date>2020-01-09 00:00:00</up_date>
+    <program_number>133</program_number>
+    <up_date>2020-03-05 00:00:00</up_date>
     <personalities>
       <personality>
         <name>辻本良三プロデューサー</name>
@@ -2731,24 +3003,24 @@
       </personality>
     </personalities>
   </program>
-  <program id="hanadi">
-    <title>檜山修之とやまけんのただ座して噺すのみ！ラヂオ。</title>
-    <copyright><![CDATA[]]></copyright>
+  <program id="coral">
+    <title>稗田寧々 鈴代紗弓のコーラルマイク</title>
+    <copyright><![CDATA[ⓒInternet Radio Station＜音泉＞]]></copyright>
     <is_app>1</is_app>
     <wday>4</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/hanadi191114cW0A.mp3</movie_url>
+    <movie_url></movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/hanadi/image/601_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/hanadi191114cW0A.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/hanadi191114cW0A.mp3</android_url>
-    <recommend_program_id>anime</recommend_program_id>
+    <banner_image>/program/coral/image/801_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>檜山修之,やまけん</actor_tag>
+    <program_tag>コラマイ</program_tag>
+    <actor_tag>稗田寧々,鈴代紗弓</actor_tag>
     <category>
-      <new>0</new>
+      <new>1</new>
       <radio>1</radio>
       <movie>0</movie>
       <niconama>0</niconama>
@@ -2756,8 +3028,48 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>05</program_number>
-    <up_date>2019-11-14 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>稗田寧々</name>
+      </personality>
+      <personality>
+        <name>鈴代紗弓</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="saisuki">
+    <title>村上奈津実・伊藤彩沙　最近、好きになりました</title>
+    <copyright><![CDATA[ⓒインターネットラジオステーション＜音泉＞]]></copyright>
+    <is_app>1</is_app>
+    <wday>4</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/saisuki/image/800_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>さいすき</program_tag>
+    <actor_tag>村上奈津実,伊藤彩沙</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>村上奈津実</name>
+      </personality>
+      <personality>
+        <name>伊藤彩沙</name>
+      </personality>
+    </personalities>
   </program>
   <program id="hanayume">
     <title>花とゆめ　男子会!?らじお</title>
@@ -2765,12 +3077,12 @@
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/hanayume200117WL1p.mp3</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/hanayume200717C1rK.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/hanayume/image/98_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/hanayume200117WL1p.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/hanayume200117WL1p.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/hanayume200717C1rK.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/hanayume200717C1rK.mp3</android_url>
     <recommend_program_id>diaace,phantomworld,activeraid</recommend_program_id>
     <recommends/>
     <program_tag>男子会！？らじお</program_tag>
@@ -2784,8 +3096,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>180</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+    <program_number>192</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>下野紘</name>
@@ -2801,12 +3113,12 @@
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ff200117WL1p.mp3</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ff200717C1rK.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/ff/image/184_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ff200117WL1p.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ff200117WL1p.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ff200717C1rK.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ff200717C1rK.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>ファイナルファンタジーXIV,新生エオルゼア,ラジオ</program_tag>
@@ -2820,8 +3132,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>272</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+    <program_number>294</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>南條愛乃</name>
@@ -2834,12 +3146,12 @@
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mogucomi200117Vk5C.mp4</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/mogucomi200717e1XO.mp4</movie_url>
     <sound_video>2</sound_video>
-    <banner_image>/program/mogucomi/image/339_pgi04_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mogucomi200117Vk5C.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mogucomi200117Vk5C.mp4</android_url>
+    <banner_image>/program/mogucomi/image/339_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/mogucomi200717e1XO.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/mogucomi200717e1XO.mp4</android_url>
     <recommend_program_id>soruraru,zenbu</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2853,8 +3165,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>145</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+    <program_number>SP</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>花守ゆみり</name>
@@ -2870,12 +3182,12 @@
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/sukebe200117GP9c.mp3</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/sukebe200717Wa2G.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/sukebe/image/392_pgi04_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/sukebe200117GP9c.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/sukebe200117GP9c.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/sukebe200717Wa2G.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/sukebe200717Wa2G.mp3</android_url>
     <recommend_program_id>yp_radio</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -2889,8 +3201,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>172</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+    <program_number>198</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>羽多野渉</name>
@@ -2926,95 +3238,24 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
   </program>
-  <program id="lnaf">
-    <title>連盟空軍広報局公式放送　LNAF.OA.ラジオワールドウィッチーズ</title>
-    <copyright><![CDATA[©2016 島田フミカネ・KADOKAWA／第502統合戦闘航空団]]></copyright>
+  <program id="same">
+    <title>ガールズ＆パンツァーRADIO　サメさんチーム、よーそろー！</title>
+    <copyright><![CDATA[ⓒGIRLS und PANZER Finale Projekt]]></copyright>
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/lnaf200110P0Wl.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/same2002213Kou.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/lnaf/image/388_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/lnaf200110P0Wl.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/lnaf200110P0Wl.mp3</android_url>
-    <recommend_program_id>501st</recommend_program_id>
-    <recommends/>
-    <program_tag>ワールドウィッチーズ,ストライクウィッチーズ</program_tag>
-    <actor_tag>大橋歩夕</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>55</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>大橋歩夕</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="usagi">
-    <title>ガールズ＆パンツァーRADIO　ウサギさんチーム、もっともっと訓練中！</title>
-    <copyright><![CDATA[©GIRLS und PANZER Finale Projekt]]></copyright>
-    <is_app>1</is_app>
-    <wday>5</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/usagi1907265TRC.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/usagi/image/210_pgi04_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/usagi1907265TRC.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/usagi1907265TRC.mp3</android_url>
-    <recommend_program_id>arupan,garpeggio,garpeggio_rec</recommend_program_id>
-    <recommends>
-      <recommend>
-        <name>ガールズ＆パンツァーRADIO　ウサギさんチーム、訓練中！関連商品</name>
-        <image>/common/image/cms/recommend/160_rcmd01.jpg</image>
-      </recommend>
-    </recommends>
-    <program_tag>ガルパン</program_tag>
-    <actor_tag>竹内仁美,中里望,多田このみ,山岡ゆり,秋奈,小松未可子</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>06</program_number>
-    <up_date>2019-07-26 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>ウサギさんチーム選抜部隊</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="chihatan">
-    <title>ガールズ＆パンツァーRADIO　知波単学園、ラジオ突撃！</title>
-    <copyright><![CDATA[©GIRLS und PANZER Finale Projekt]]></copyright>
-    <is_app>1</is_app>
-    <wday>5</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/chihatan191115JP0i.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/chihatan/image/709_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/chihatan191115JP0i.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/chihatan191115JP0i.mp3</android_url>
+    <banner_image>/program/same/image/727_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/same2002213Kou.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/same2002213Kou.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>瀬戸麻沙美,大空直美,米澤円,七瀬亜深</actor_tag>
+    <program_tag>ガルパン</program_tag>
+    <actor_tag>佐倉綾音,高森奈津美,大地葉,米澤円,七瀬亜深</actor_tag>
     <category>
-      <new>1</new>
+      <new>0</new>
       <radio>1</radio>
       <movie>0</movie>
       <niconama>0</niconama>
@@ -3023,21 +3264,8 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
     <program_number>SP</program_number>
-    <up_date>2019-11-15 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>瀬戸麻沙美</name>
-      </personality>
-      <personality>
-        <name>大空直美</name>
-      </personality>
-      <personality>
-        <name>米澤円</name>
-      </personality>
-      <personality>
-        <name>七瀬亜深</name>
-      </personality>
-    </personalities>
+    <up_date>2020-02-21 00:00:00</up_date>
+    <personalities/>
   </program>
   <program id="gashitai">
     <title>風音と桜川未央と桃井いちごの女子会ノリでラジオがしたい！</title>
@@ -3046,11 +3274,11 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gashitai191227a7RD.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gashitai200710W9Qk.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/gashitai/image/477_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gashitai191227a7RD.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gashitai191227a7RD.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gashitai200710W9Qk.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gashitai200710W9Qk.mp3</android_url>
     <recommend_program_id>home</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -3064,8 +3292,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>62</program_number>
-    <up_date>2019-12-27 00:00:00</up_date>
+    <program_number>75</program_number>
+    <up_date>2020-07-10 00:00:00</up_date>
     <personalities>
       <personality>
         <name>風音</name>
@@ -3075,6 +3303,39 @@
       </personality>
       <personality>
         <name>桃井いちご</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="lnaf">
+    <title>連盟空軍広報局公式放送　LNAF.OA.ラジオワールドウィッチーズ</title>
+    <copyright><![CDATA[©2016 島田フミカネ・KADOKAWA／第502統合戦闘航空団]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/lnaf200710W9Qk.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/lnaf/image/388_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/lnaf200710W9Qk.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/lnaf200710W9Qk.mp3</android_url>
+    <recommend_program_id>501st</recommend_program_id>
+    <recommends/>
+    <program_tag>ワールドウィッチーズ,ストライクウィッチーズ</program_tag>
+    <actor_tag>大橋歩夕</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>61</program_number>
+    <up_date>2020-07-10 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>大橋歩夕</name>
       </personality>
     </personalities>
   </program>
@@ -3124,11 +3385,11 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ntrj200110P0Wl.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/ntrj200710W9Qk.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/ntrj/image/510_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ntrj200110P0Wl.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ntrj200110P0Wl.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/ntrj200710W9Qk.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/ntrj200710W9Qk.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -3142,8 +3403,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>54</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
+    <program_number>66</program_number>
+    <up_date>2020-07-10 00:00:00</up_date>
     <personalities>
       <personality>
         <name>杏花</name>
@@ -3156,6 +3417,39 @@
       </personality>
     </personalities>
   </program>
+  <program id="tojinomiko">
+    <title>本渡楓のとじらじ！</title>
+    <copyright><![CDATA[ⓒ伍箇伝計画／刀使ノ巫女製作委員会 ⓒ2018 SQUARE ENIX CO., LTD. All Rights Reserved.]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/tojinomiko/image/593_pgi03_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>本渡楓</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>33</program_number>
+    <up_date>2020-07-03 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>本渡楓</name>
+      </personality>
+    </personalities>
+  </program>
   <program id="vac">
     <title>ラジオ　VOICE ACTRESS CONCERTO!</title>
     <copyright><![CDATA[© KADOKAWA CORPORATION 2018]]></copyright>
@@ -3163,11 +3457,11 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/vac191227a7RD.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/vac2006269nfR.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/vac/image/502_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/vac191227a7RD.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/vac191227a7RD.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/vac2006269nfR.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/vac2006269nfR.mp3</android_url>
     <recommend_program_id>kumaid,moa</recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -3181,8 +3475,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>30</program_number>
-    <up_date>2019-12-27 00:00:00</up_date>
+    <program_number>36</program_number>
+    <up_date>2020-06-26 00:00:00</up_date>
     <personalities>
       <personality>
         <name>Ayumi.</name>
@@ -3199,11 +3493,11 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/aya-uchida191227t2AK.mp4</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/aya-uchida200717e1XO.mp4</movie_url>
     <sound_video>2</sound_video>
-    <banner_image>/program/aya-uchida/image/539_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/aya-uchida191227t2AK.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/aya-uchida191227t2AK.mp4</android_url>
+    <banner_image>/program/aya-uchida/image/539_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/aya-uchida200717e1XO.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/aya-uchida200717e1XO.mp4</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -3217,8 +3511,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>47</program_number>
-    <up_date>2019-12-27 00:00:00</up_date>
+    <program_number>58</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>内田彩</name>
@@ -3231,12 +3525,12 @@
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/fujita200117A9yD.mp4</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/fujita200717e1XO.mp4</movie_url>
     <sound_video>2</sound_video>
     <banner_image>/program/fujita/image/548_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/fujita200117A9yD.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/fujita200117A9yD.mp4</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/fujita200717e1XO.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/fujita200717e1XO.mp4</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -3250,8 +3544,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>53</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+    <program_number>65</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>藤田茜</name>
@@ -3265,57 +3559,31 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking191227a7RD.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking2006269nfR.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/onsenking/image/577_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking191227a7RD.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking191227a7RD.mp3</android_url>
+    <banner_image>/program/onsenking/image/577_pgi03_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking2006269nfR.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking2006269nfR.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>音泉キング</program_tag>
     <actor_tag>下野紘</actor_tag>
     <category>
       <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
+      <radio>0</radio>
+      <movie>1</movie>
       <niconama>0</niconama>
       <live>0</live>
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>21</program_number>
-    <up_date>2019-12-27 00:00:00</up_date>
+    <program_number>26</program_number>
+    <up_date>2020-06-26 00:00:00</up_date>
     <personalities>
       <personality>
         <name>下野紘</name>
       </personality>
     </personalities>
-  </program>
-  <program id="onsenking-b">
-    <title>音泉キング「下野紘」のラジオ きみはもちろん、＜音泉＞ファミリーだよね？</title>
-    <copyright><![CDATA[©Internet Radio Station＜音泉＞]]></copyright>
-    <is_app>1</is_app>
-    <wday>5</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking191227a7RD-2.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/onsenking-b/image/578_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking191227a7RD-2.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/onsenking191227a7RD-2.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>下野紘</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
   </program>
   <program id="gridman">
     <title>アニメGRIDMAN ラジオ とりあえずUNION</title>
@@ -3324,11 +3592,11 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gridman200110P0Wl.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/gridman200710W9Qk.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/gridman/image/629_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gridman200110P0Wl.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gridman200110P0Wl.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/gridman200710W9Qk.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/gridman200710W9Qk.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>GRIDMAN</program_tag>
@@ -3342,8 +3610,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>32</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
+    <program_number>38</program_number>
+    <up_date>2020-07-10 00:00:00</up_date>
     <personalities>
       <personality>
         <name>広瀬裕也</name>
@@ -3354,17 +3622,17 @@
     </personalities>
   </program>
   <program id="kokuradio">
-    <title>告RADIO ROAD TO 2020</title>
+    <title>告RADIO 2020</title>
     <copyright><![CDATA[ⓒ赤坂アカ／集英社・かぐや様は告らせたい製作委員会]]></copyright>
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kokuradio200110P0Wl.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kokuradio200717C1rK.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/kokuradio/image/641_pgi05_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kokuradio200110P0Wl.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kokuradio200110P0Wl.mp3</android_url>
+    <banner_image>/program/kokuradio/image/641_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kokuradio200717C1rK.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kokuradio200717C1rK.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>かぐや様</program_tag>
@@ -3378,41 +3646,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>06</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
-  </program>
-  <program id="fairygone">
-    <title>TVアニメ『Fairy gone フェアリーゴーン』違法妖精取締ラジオ</title>
-    <copyright><![CDATA[ⓒFive fairy scholars ／ フェアリーゴーン制作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>5</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/fairygone200110FmF3.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/fairygone/image/658_pgi03_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/fairygone200110FmF3.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/fairygone200110FmF3.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag>フェアリーゴーン</program_tag>
-    <actor_tag>市ノ瀬加那</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>14</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>市ノ瀬加那</name>
-      </personality>
-    </personalities>
+    <program_number>26</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
   </program>
   <program id="tsbase">
     <title>立花ベース in 初台</title>
@@ -3420,12 +3655,12 @@
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tsbase200117WL1p.mp4</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tsbase200717C1rK.mp4</movie_url>
     <sound_video>2</sound_video>
     <banner_image>/program/tsbase/image/667_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tsbase200117WL1p.mp4</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tsbase200117WL1p.mp4</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tsbase200717C1rK.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tsbase200717C1rK.mp4</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag></program_tag>
@@ -3439,25 +3674,25 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>17</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+    <program_number>30 前半</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
   </program>
-  <program id="wa2">
-    <title>WHITE ALBUM2 同好会ラジオ2019</title>
-    <copyright><![CDATA[©2012 AQUAPLUS]]></copyright>
+  <program id="railgun_t">
+    <title>とあるラジオの超電磁砲Ｔ　柵川中学放送部</title>
+    <copyright><![CDATA[ⓒ2018 鎌池和馬／冬川基／ＫＡＤＯＫＡＷＡ／]]></copyright>
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/wa2191227a7RD.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/railgun_t2006269nfR.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/wa2/image/688_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/wa2191227a7RD.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/wa2191227a7RD.mp3</android_url>
+    <banner_image>/program/railgun_t/image/720_pgi04_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/railgun_t2006269nfR.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/railgun_t2006269nfR.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>米澤円,生天目仁美</actor_tag>
+    <program_tag>とある</program_tag>
+    <actor_tag>佐藤利奈,新井里美,豊崎愛生,伊藤かな恵</actor_tag>
     <category>
       <new>0</new>
       <radio>1</radio>
@@ -3467,16 +3702,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>04</program_number>
-    <up_date>2019-12-27 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>米澤円</name>
-      </personality>
-      <personality>
-        <name>生天目仁美</name>
-      </personality>
-    </personalities>
+    <program_number>08</program_number>
+    <up_date>2020-06-26 00:00:00</up_date>
   </program>
   <program id="kamihime">
     <title>民安ともえ と 青葉りんごの神プロRADIO</title>
@@ -3484,12 +3711,12 @@
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kamihime200117WL1p.mp3</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/kamihime200717C1rK.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/kamihime/image/701_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kamihime200117WL1p.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kamihime200117WL1p.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/kamihime200717C1rK.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/kamihime200717C1rK.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>神姫PROJECT</program_tag>
@@ -3503,8 +3730,8 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>18</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+    <program_number>44</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
     <personalities>
       <personality>
         <name>民安ともえ</name>
@@ -3521,11 +3748,11 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/heroaca_amn200110YAr6.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/heroaca_amn200626bQD7.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/heroaca_amn/image/329_pgi04_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/heroaca_amn200110YAr6.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/heroaca_amn200110YAr6.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/heroaca_amn200626bQD7.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/heroaca_amn200626bQD7.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>ヒロアカ</program_tag>
@@ -3539,53 +3766,14 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>07</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
+    <program_number>14</program_number>
+    <up_date>2020-06-26 00:00:00</up_date>
     <personalities>
       <personality>
         <name>山下大輝</name>
       </personality>
       <personality>
         <name>増田俊樹</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="afusara">
-    <title>TVアニメ「アフリカのサラリーマン」社畜のみなさんの為のラジオです</title>
-    <copyright><![CDATA[©Project AFRICAN OFFICE WORKER 2019]]></copyright>
-    <is_app>1</is_app>
-    <wday>5</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/afusara191213eQ9Q.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/afusara/image/705_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/afusara191213eQ9Q.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/afusara191213eQ9Q.mp3</android_url>
-    <recommend_program_id>tsudaken,onsenking,hanayume</recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>大塚明夫,津田健次郎,下野紘</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>06</program_number>
-    <up_date>2019-12-13 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>大塚明夫</name>
-      </personality>
-      <personality>
-        <name>津田健次郎</name>
-      </personality>
-      <personality>
-        <name>下野紘</name>
       </personality>
     </personalities>
   </program>
@@ -3596,11 +3784,11 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/radista200110P0Wl.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/radista200410c1DM.mp3</movie_url>
     <sound_video>1</sound_video>
     <banner_image>/program/radista/image/716_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/radista200110P0Wl.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/radista200110P0Wl.mp3</android_url>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/radista200410c1DM.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/radista200410c1DM.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>あんスタ</program_tag>
@@ -3614,27 +3802,27 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>04</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
+    <program_number>10</program_number>
+    <up_date>2020-04-10 00:00:00</up_date>
   </program>
-  <program id="isyuzoku">
-    <title>異種族レビュアーズ 食酒亭ラジオ</title>
-    <copyright><![CDATA[ⓒ天原・masha／株式会社ＫＡＤＯＫＡＷＡ／異種族レビュアーズ製作委員会]]></copyright>
+  <program id="radista-ex">
+    <title>【再配信】あんさんぶるスターズ！！『ALKALOID』&amp;『Crazy:B』のラジオスクエア！！第9回</title>
+    <copyright><![CDATA[ⓒHappy Elements K.K]]></copyright>
     <is_app>1</is_app>
     <wday>5</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/isyuzoku200117WL1p.mp3</movie_url>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/radista_ex_09.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/isyuzoku/image/718_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/isyuzoku200117WL1p.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/isyuzoku200117WL1p.mp3</android_url>
+    <banner_image>/program/radista-ex/image/783_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/radista_ex_09.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/radista_ex_09.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag>isyuzoku</program_tag>
-    <actor_tag>間島淳司,小林裕介</actor_tag>
+    <program_tag></program_tag>
+    <actor_tag></actor_tag>
     <category>
-      <new>1</new>
+      <new>0</new>
       <radio>1</radio>
       <movie>0</movie>
       <niconama>0</niconama>
@@ -3642,8 +3830,96 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>02</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
+  </program>
+  <program id="radista-ex2">
+    <title>【再配信】あんさんぶるスターズ！！『ALKALOID』&amp;『Crazy:B』のラジオスクエア！！第10回</title>
+    <copyright><![CDATA[ⓒHappy Elements K.K]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/radista_ex_10.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/radista-ex2/image/785_pgi05_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/radista_ex_10.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/radista_ex_10.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>あんすた</program_tag>
+    <actor_tag></actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+  </program>
+  <program id="wa2">
+    <title>WHITE ALBUM2 同好会ラジオ2019</title>
+    <copyright><![CDATA[©2012 AQUAPLUS]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/wa2200131XT8n.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/wa2/image/688_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/wa2200131XT8n.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/wa2200131XT8n.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>米澤円,生天目仁美</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>05</program_number>
+    <up_date>2020-01-31 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>米澤円</name>
+      </personality>
+      <personality>
+        <name>生天目仁美</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="isyuzoku">
+    <title>異種族レビュアーズ 食酒亭ラジオ</title>
+    <copyright><![CDATA[ⓒ天原・masha／株式会社ＫＡＤＯＫＡＷＡ／異種族レビュアーズ製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/isyuzoku200403g4CK.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/isyuzoku/image/718_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/isyuzoku200403g4CK.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/isyuzoku200403g4CK.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>isyuzoku</program_tag>
+    <actor_tag>間島淳司,小林裕介</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>13</program_number>
+    <up_date>2020-04-03 00:00:00</up_date>
     <personalities>
       <personality>
         <name>間島淳司</name>
@@ -3660,15 +3936,350 @@
     <wday>5</wday>
     <is_list>1</is_list>
     <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/oda-shinamon200110FmF3.mp3</movie_url>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/oda-shinamon200327Inf7.mp3</movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/oda-shinamon/image/724_pgi02_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/oda-shinamon200110FmF3.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/oda-shinamon200110FmF3.mp3</android_url>
+    <banner_image>/program/oda-shinamon/image/724_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/oda-shinamon200327Inf7.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/oda-shinamon200327Inf7.mp3</android_url>
     <recommend_program_id></recommend_program_id>
     <recommends/>
     <program_tag>織田シナモン信長</program_tag>
     <actor_tag>熊田茜音,堀内賢雄</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>05</program_number>
+    <up_date>2020-03-27 00:00:00</up_date>
+  </program>
+  <program id="aina">
+    <title>鈴木愛奈のring A radio</title>
+    <copyright><![CDATA[© BANDAI NAMCO Arts Inc. All Rights Reserved.]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/aina200717C1rK.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/aina/image/721_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/aina200717C1rK.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/aina200717C1rK.mp3</android_url>
+    <recommend_program_id>mogucomi</recommend_program_id>
+    <recommends/>
+    <program_tag>リンラジ</program_tag>
+    <actor_tag>鈴木愛奈</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>29</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>鈴木愛奈</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="koitate">
+    <title>恋する乙女と守護の楯 Re:boot The "SHIELD-9"～アイギスラジオ～</title>
+    <copyright><![CDATA[ⓒAIGIS/GIGA　ⓒアイギスラジオ制作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/koitate200327L9sn.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/koitate/image/726_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/koitate200327L9sn.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/koitate200327L9sn.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>桃井穂美</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>05</program_number>
+    <up_date>2020-03-27 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>桃井穂美</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="fate-sn">
+    <title>劇場版「Fate/stay night [Heaven's Feel]～もし、わたしがラジオをやったら、許せませんか？～Ⅲ</title>
+    <copyright><![CDATA[©TYPE-MOON・ufotable・FSNPC　©TYPE-MOON]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/fate-sn200403g4CK.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/fate-sn/image/495_pgi05_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/fate-sn200403g4CK.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/fate-sn200403g4CK.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>下屋則子</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>05</program_number>
+    <up_date>2020-04-03 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>下屋則子</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="festa">
+    <title>ComicFesta Radio　ユステイル種族集会</title>
+    <copyright><![CDATA[ⓒneco/Suiseisha Inc.]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/festa200710W9Qk.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/festa/image/625_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/festa200710W9Qk.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/festa200710W9Qk.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>ComicFesta</program_tag>
+    <actor_tag>駒田航,永塚拓馬</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>25</program_number>
+    <up_date>2020-07-10 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>小野友樹</name>
+      </personality>
+      <personality>
+        <name>中澤まさとも</name>
+      </personality>
+      <personality>
+        <name>白井悠介</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="koihime">
+    <title>風音と遥そらの恋姫らじお</title>
+    <copyright><![CDATA[ⓒNEXTON/BaseSon]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/koihime2006269nfR.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/koihime/image/739_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/koihime2006269nfR.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/koihime2006269nfR.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>恋姫らじお</program_tag>
+    <actor_tag>風音,遥そら</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>02</program_number>
+    <up_date>2020-06-26 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>風音</name>
+      </personality>
+      <personality>
+        <name>遥そら</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="yyyi">
+    <title>ラジオ「結城友奈は勇者である 花結いのきらめき」勇者部活動報告</title>
+    <copyright><![CDATA[ⓒ2017 Project 2H ©KADOKAWA CORPORATION 2017　　Developed by AltPlus Inc.]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/yyyi200717C1rK.mp4</movie_url>
+    <sound_video>2</sound_video>
+    <banner_image>/program/yyyi/image/779_pgi02_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/yyyi200717C1rK.mp4</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/yyyi200717C1rK.mp4</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>結城友奈,花結いのきらめき,ゆゆゆい</program_tag>
+    <actor_tag>照井春佳,伊藤美来,松井恵理子</actor_tag>
+    <category>
+      <new>0</new>
+      <radio>0</radio>
+      <movie>1</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <program_number>04</program_number>
+    <up_date>2020-07-17 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>照井春佳</name>
+      </personality>
+      <personality>
+        <name>伊藤美来</name>
+      </personality>
+      <personality>
+        <name>松井恵理子</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="bullet">
+    <title>デート・ア・バレット ラジオ　時崎狂三の時間</title>
+    <copyright><![CDATA[ⓒ2020 東出祐一郎・橘公司・NOCO／KADOKAWA／「デート・ア・バレット」製作委員会]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/bullet/image/807_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>真田アサミ,本渡楓</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>真田アサミ</name>
+      </personality>
+      <personality>
+        <name>本渡楓</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="frb">
+    <title>ファンタジア・リビルド　エンデと理乃の「愛した世界を紡ぐラジオ」</title>
+    <copyright><![CDATA[ⓒKADOKAWAファンタジア文庫 ⓒ2020 EXNOA LLC Developed by gumi]]></copyright>
+    <is_app>1</is_app>
+    <wday>5</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/frb/image/808_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag>桑原由気,古賀葵</actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+    <personalities>
+      <personality>
+        <name>古賀葵</name>
+      </personality>
+      <personality>
+        <name>桑原由気</name>
+      </personality>
+    </personalities>
+  </program>
+  <program id="cheerkyubu">
+    <title>Cheer球部！全校応援ラジオ　ちあたま、さくよ！</title>
+    <copyright><![CDATA[©2020 プロジェクトCheer球部！]]></copyright>
+    <is_app>1</is_app>
+    <wday>6</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/cheerkyubu/image/793_pgi02_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag></program_tag>
+    <actor_tag></actor_tag>
+    <category>
+      <new>1</new>
+      <radio>1</radio>
+      <movie>0</movie>
+      <niconama>0</niconama>
+      <live>0</live>
+    </category>
+    <is_nicodou>0</is_nicodou>
+    <is_outmovie>0</is_outmovie>
+  </program>
+  <program id="tane">
+    <title>Salon de Tanedaへようこそ♪</title>
+    <copyright><![CDATA[]]></copyright>
+    <is_app>1</is_app>
+    <wday>6</wday>
+    <is_list>1</is_list>
+    <is_new>0</is_new>
+    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/tane200712Ja7s.mp3</movie_url>
+    <sound_video>1</sound_video>
+    <banner_image>/program/tane/image/805_pgi01_s.jpg</banner_image>
+    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/tane200712Ja7s.mp3</iphone_url>
+    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/tane200712Ja7s.mp3</android_url>
+    <recommend_program_id></recommend_program_id>
+    <recommends/>
+    <program_tag>種田梨沙</program_tag>
+    <actor_tag>種田梨沙</actor_tag>
     <category>
       <new>1</new>
       <radio>1</radio>
@@ -3679,24 +4290,29 @@
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
     <program_number>01</program_number>
-    <up_date>2020-01-10 00:00:00</up_date>
+    <up_date>2020-07-12 00:00:00</up_date>
+    <personalities>
+      <personality>
+        <name>種田梨沙</name>
+      </personality>
+    </personalities>
   </program>
-  <program id="aina">
-    <title>鈴木愛奈のring A radio</title>
-    <copyright><![CDATA[© BANDAI NAMCO Arts Inc. All Rights Reserved.]]></copyright>
+  <program id="gugl_kiku">
+    <title>菊一文字のヤングタウンEX</title>
+    <copyright><![CDATA[ⓒMBS／ゲラゲラ製作委員会]]></copyright>
     <is_app>1</is_app>
-    <wday>5</wday>
+    <wday>6</wday>
     <is_list>1</is_list>
-    <is_new>1</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/aina200117WL1p.mp3</movie_url>
+    <is_new>0</is_new>
+    <movie_url></movie_url>
     <sound_video>1</sound_video>
-    <banner_image>/program/aina/image/721_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/aina200117WL1p.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/aina200117WL1p.mp3</android_url>
-    <recommend_program_id>mogucomi</recommend_program_id>
+    <banner_image>/program/gugl_kiku/image/806_pgi01_s.jpg</banner_image>
+    <iphone_url></iphone_url>
+    <android_url></android_url>
+    <recommend_program_id></recommend_program_id>
     <recommends/>
-    <program_tag>リンラジ</program_tag>
-    <actor_tag>鈴木愛奈</actor_tag>
+    <program_tag></program_tag>
+    <actor_tag>石川界人,豊永利行</actor_tag>
     <category>
       <new>1</new>
       <radio>1</radio>
@@ -3706,80 +4322,12 @@
     </category>
     <is_nicodou>0</is_nicodou>
     <is_outmovie>0</is_outmovie>
-    <program_number>03</program_number>
-    <up_date>2020-01-17 00:00:00</up_date>
     <personalities>
       <personality>
-        <name>鈴木愛奈</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="nakageno">
-    <title>ナカノヒトゲノムラジオ【配信中】～どうか死ぬ気で聴いて下さいませ～</title>
-    <copyright><![CDATA[&copy;2019 おそら／KADOKAWA／ナカノヒトゲノム【実況中】製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>6</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/nakageno19929Urj6.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/nakageno/image/682_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/nakageno19929Urj6.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/nakageno19929Urj6.mp3</android_url>
-    <recommend_program_id>tsudaken,otomateclub,copcraft</recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag></actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>07</program_number>
-    <up_date>2019-09-29 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>津田健次郎</name>
-      </personality>
-    </personalities>
-  </program>
-  <program id="chubyou">
-    <title>厨病激発ラジオ</title>
-    <copyright><![CDATA[©2019 れるりり・藤並みなと／KADOKAWA／厨病激発ボーイ製作委員会]]></copyright>
-    <is_app>1</is_app>
-    <wday>6</wday>
-    <is_list>1</is_list>
-    <is_new>0</is_new>
-    <movie_url>https://onsen-dl.sslcs.cdngc.net/radio/chubyou191228D6Yv.mp3</movie_url>
-    <sound_video>1</sound_video>
-    <banner_image>/program/chubyou/image/696_pgi01_s.jpg</banner_image>
-    <iphone_url>https://onsen-dl.sslcs.cdngc.net/radio/chubyou191228D6Yv.mp3</iphone_url>
-    <android_url>https://onsen-dl.sslcs.cdngc.net/radio/chubyou191228D6Yv.mp3</android_url>
-    <recommend_program_id></recommend_program_id>
-    <recommends/>
-    <program_tag></program_tag>
-    <actor_tag>山下大輝,株元英彰</actor_tag>
-    <category>
-      <new>0</new>
-      <radio>1</radio>
-      <movie>0</movie>
-      <niconama>0</niconama>
-      <live>0</live>
-    </category>
-    <is_nicodou>0</is_nicodou>
-    <is_outmovie>0</is_outmovie>
-    <program_number>08</program_number>
-    <up_date>2019-12-28 00:00:00</up_date>
-    <personalities>
-      <personality>
-        <name>山下大輝</name>
+        <name>豊永利行</name>
       </personality>
       <personality>
-        <name>株元英彰</name>
+        <name>石川界人</name>
       </personality>
     </personalities>
   </program>
